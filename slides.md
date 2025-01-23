@@ -64,10 +64,10 @@ Aug 2015 – Apr 2019
 ::right::
 
 <div class="grid grid-cols-2 gap-1 my-5">
-  <img src="/SYNCED_FIN_PNG_1280.png" class="w-full h-auto" />
-  <img src="/FarCryNewDawn_FIN_PNG_1280.png" class="w-full h-auto" />
-  <img src="/FarCry5_FIN_PNG_1280.png" class="w-full h-auto" />
-  <img src="/FarCryPrimal_FIN_PNG_1280.png" class="w-full h-auto" />
+  <img src="/SYNCED_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
+  <img src="/FarCryNewDawn_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
+  <img src="/FarCry5_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
+  <img src="/FarCryPrimal_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
 </div>
 
 <!--
@@ -75,31 +75,17 @@ Aug 2015 – Apr 2019
 -->
 
 ---
-transition: slide-up
-level: 2
+layout: header-body
 ---
 
-# Navigation
+## **课程简介**
 
-Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/ui#navigation-bar)
+::body::
 
-## Keyboard Shortcuts
-
-|                                                     |                             |
-| --------------------------------------------------- | --------------------------- |
-| <kbd>right</kbd> / <kbd>space</kbd>                 | next animation or slide     |
-| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
-| <kbd>up</kbd>                                       | previous slide              |
-| <kbd>down</kbd>                                     | next slide                  |
-
-<!-- https://sli.dev/guide/animations.html#click-animation -->
-<img
-  v-click
-  class="absolute -bottom-9 -left-7 w-80 opacity-50"
-  src="https://sli.dev/assets/arrow-bottom-left.svg"
-  alt=""
-/>
-<p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
+- Who is this course for?
+- What does this course cover and not cover?
+- What you can expect from this course?
+- What is expected from you?
 
 ---
 layout: two-cols
