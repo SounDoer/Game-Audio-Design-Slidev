@@ -87,24 +87,27 @@ layout: header-body
 - What you can expect from this course?
 - What is expected from you?
 
+<!-- 
+现在不缺学习资料，AI，很多东西需要自学
+游戏音频设计的哲学 / 框架 / 方法论
+做一名专业的开发者，专业体现在哪里？
+-->
+
 ---
-layout: two-cols
-layoutClass: gap-16
+layout: header-body
 ---
 
-# Table of contents
+## **课程简介**
 
-You can use the `Toc` component to generate a table of contents for your slides:
-
-```html
-<Toc minDepth="1" maxDepth="1" />
+```mermaid {theme: 'neutral'}
+graph LR
+  root(课程内容) --- A(sadf)
+      A1((子节点A1))
+      A2((子节点A2))
+    B((节点B))
+      B1((子节点B1))
+      B2((子节点B2))
 ```
-
-The title will be inferred from your slide content, or you can override it with `title` and `level` in your frontmatter.
-
-::right::
-
-<Toc text-sm minDepth="1" maxDepth="2" />
 
 ---
 layout: image-right
