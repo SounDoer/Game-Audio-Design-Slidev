@@ -1,7 +1,6 @@
 ---
 theme: default
 title: Game Audio Design
-class: text-center
 drawings:
   persist: false
 transition: slide-left
@@ -11,6 +10,7 @@ fonts:
   serif: Robot Slab
   mono: Fira Code
 layout: cover
+class: text-center
 ---
 
 # **游戏音频设计**
@@ -33,48 +33,45 @@ Xichen
 </div> -->
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+The last comment block of each slide will be treated as slide notes.
 -->
 
 ---
-transition: fade-out
+layout: two-cols-header
 ---
 
-# What is Slidev?
+## **沈希辰**  
+Xichen Shen
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
+::left::
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - themes can be shared and re-used as npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embed Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export to PDF, PPTX, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - virtually anything that's possible on a webpage is possible in Slidev
-<br>
-<br>
+- Lead Audio Designer at Hypergryph  
+Aug 2023 - Present  
+Unannounced project working in progress...
 
-Read more about [Why Slidev?](https://sli.dev/guide/why)
+- Senior Audio Designer at Tencent NExT Studios  
+Apr 2019 – Aug 2023  
+[SYNCED](https://www.syncedthegame.com)  
 
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/features/slide-scope-style
--->
+- Audio Designer at Ubisoft Shanghai  
+Aug 2015 – Apr 2019  
+[Far Cry New Dawn](https://www.ubisoft.com/en-us/game/far-cry/new-dawn)  
+[Far Cry 5](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5)  
+[Far Cry 5 DLC: Hours of Darkness](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5#58nAYWr7wA8hcfzLZs0mne)  
+[Far Cry 5 DLC: Lost On Mars](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5#58nAYWr7wA8hcfzLZs0mne)  
+[Far Cry Primal](https://www.ubisoft.com/en-us/game/far-cry/far-cry-primal)  
 
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
+::right::
+
+<div class="grid grid-cols-2 gap-1 my-5">
+  <img src="/SYNCED_FIN_PNG_1280.png" class="w-full h-auto" />
+  <img src="/FarCryNewDawn_FIN_PNG_1280.png" class="w-full h-auto" />
+  <img src="/FarCry5_FIN_PNG_1280.png" class="w-full h-auto" />
+  <img src="/FarCryPrimal_FIN_PNG_1280.png" class="w-full h-auto" />
+</div>
 
 <!--
-Here is another comment.
+个人简介
 -->
 
 ---
