@@ -101,13 +101,18 @@ layout: header-body
 
 ```mermaid {theme: 'neutral'}
 graph LR
-  root(课程内容) --- A(sadf)
-      A1((子节点A1))
-      A2((子节点A2))
-    B((节点B))
-      B1((子节点B1))
-      B2((子节点B2))
+  root(课程内容) --- A(理论)
+    A(理论) --- A1(子节点A1)
+    A(理论) --- A2(子节点A2)
+  root(课程内容) --- B(实践)
+    B(实践) --- B1(子节点B1)
+    B(实践) --- B2(子节点B2)
+  root(课程内容) --- C(作业)
 ```
+
+<!-- 
+树状图结构待补充
+-->
 
 ---
 layout: image-right
