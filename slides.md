@@ -99,6 +99,8 @@ layout: header-body
 
 ## **课程简介**
 
+::body::
+
 ```mermaid {theme: 'neutral'}
 graph LR
   root(课程内容) --- A(理论)
@@ -140,6 +142,8 @@ layout: header-body
 
 ## **Dev Team**
 
+::body::
+
 ```mermaid {theme: 'neutral'}
 graph TD
   root(Game Studio) --- A(项目A)
@@ -163,6 +167,8 @@ layout: header-body
 
 ## **Dev Stage**
 
+::body::
+
 ```mermaid {theme: 'neutral'}
 timeline
     2002 : LinkedIn
@@ -180,6 +186,10 @@ layout: header-body
 ---
 
 ## **Dev Tool**
+
+::body::
+
+<img src="/SYNCED_FIN_PNG_1280.png" alt="" class="w-40 h-auto absolute left-60px bottom-120px" />
 
 
 ---
