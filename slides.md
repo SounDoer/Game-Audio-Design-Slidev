@@ -115,6 +115,39 @@ graph LR
 -->
 
 ---
+layout: default
+---
+
+<div class="grid grid-cols-3 gap-2 mt-50 text-center">
+
+## <span class="text-red-500">**游戏**</span>
+## <span class="text-green-500">**音频**</span>
+## <span class="text-blue-500">**设计**</span>
+
+#### <span class="text-red-500">**Game**</span>
+#### <span class="text-green-500">**Audio**</span>
+#### <span class="text-blue-500">**Design**</span>
+
+</div>
+
+<!-- 
+游戏·音频·设计
+-->
+
+---
+
+<div class="grid pt-4 gap-4 grid-cols-[100px,1fr]">
+
+### Name
+
+- Item 1
+- Item 2
+
+</div>
+
+---
+
+---
 layout: image-right
 image: https://cover.sli.dev
 ---
