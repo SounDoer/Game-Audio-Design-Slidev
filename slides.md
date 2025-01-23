@@ -102,12 +102,12 @@ layout: header-body
 ```mermaid {theme: 'neutral'}
 graph LR
   root(课程内容) --- A(理论)
-    A(理论) --- A1(子节点A1)
-    A(理论) --- A2(子节点A2)
-  root(课程内容) --- B(实践)
-    B(实践) --- B1(子节点B1)
-    B(实践) --- B2(子节点B2)
-  root(课程内容) --- C(作业)
+    A --- A1(子节点A1)
+    A --- A2(子节点A2)
+  root --- B(实践)
+    B --- B1(子节点B1)
+    B --- B2(子节点B2)
+  root --- C(作业)
 ```
 
 <!-- 
@@ -130,22 +130,57 @@ layout: default
 
 </div>
 
-<!-- 
+<!--
 游戏·音频·设计
 -->
 
 ---
+layout: header-body
+---
 
-<div class="grid pt-4 gap-4 grid-cols-[100px,1fr]">
+## **Dev Team**
 
-### Name
+```mermaid {theme: 'neutral'}
+graph TD
+  root(Game Studio) --- A(项目A)
+    A --- A1(Programmer)
+    A --- A2(Designer)
+    A --- A3(Artist)
+  root --- B(中台)
+    B --- B1(子节点B1)
+    B --- B2(子节点B2)
+  root --- C(其他)
+```
 
-- Item 1
-- Item 2
-
-</div>
+<!--
+音频会跟各个工种和模块打交道：材质、动画、特效、关卡……
+音频属于哪里？
+-->
 
 ---
+layout: header-body
+---
+
+## **Dev Stage**
+
+```mermaid {theme: 'neutral'}
+timeline
+    2002 : LinkedIn
+    2004 : Facebook
+         : Google
+    2005 : Youtube
+    2006 : Twitter
+```
+<!--
+开发环节
+-->
+
+---
+layout: header-body
+---
+
+## **Dev Tool**
+
 
 ---
 layout: image-right
