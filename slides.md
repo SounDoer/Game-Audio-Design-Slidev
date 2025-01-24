@@ -15,7 +15,21 @@ layout: cover
 class: text-center
 ---
 
-# **游戏音频设计**
+<style>
+@keyframes color-change {
+  0% { color: #ffffff; } /* 白色 */
+  25% { color: #b56576; } /* 柔和的红色 */
+  50% { color: #6b705c; } /* 柔和的绿色 */
+  75% { color: #355070; } /* 柔和的蓝色 */
+  100% { color: #ffffff; } /* 白色 */
+}
+
+.color-change {
+  animation: color-change 15s infinite;
+}
+</style>
+
+# <span class="tracking-widest color-change">**游戏音频设计**</span>
 ## **Game Audio Design**
 <br>
 <br>
