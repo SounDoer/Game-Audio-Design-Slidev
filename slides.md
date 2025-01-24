@@ -16,21 +16,48 @@ class: text-center
 ---
 
 <style>
-@keyframes color-change {
+@keyframes color-change-red {
   0% { color: #ffffff; } /* 白色 */
-  25% { color: #b56576; } /* 柔和的红色 */
-  50% { color: #6b705c; } /* 柔和的绿色 */
-  75% { color: #355070; } /* 柔和的蓝色 */
+  50% { color: #ff7f7f; } /* 较亮的红色 */
   100% { color: #ffffff; } /* 白色 */
 }
 
-.color-change {
-  animation: color-change 15s infinite;
+@keyframes color-change-green {
+  0% { color: #ffffff; } /* 白色 */
+  50% { color: #7fff7f; } /* 较亮的绿色 */
+  100% { color: #ffffff; } /* 白色 */
+}
+
+@keyframes color-change-blue {
+  0% { color: #ffffff; } /* 白色 */
+  50% { color: #7f7fff; } /* 较亮的蓝色 */
+  100% { color: #ffffff; } /* 白色 */
+}
+
+.color-change-red {
+  animation: color-change-red 15s infinite;
+}
+
+.color-change-green {
+  animation: color-change-green 15s infinite;
+}
+
+.color-change-blue {
+  animation: color-change-blue 15s infinite;
 }
 </style>
 
-# <span class="tracking-widest color-change">**游戏音频设计**</span>
-## <span class="tracking-wide color-change">**Game Audio Design**</span>
+<div class="flex items-center justify-center text-center">
+  <div class="grid grid-cols-3 gap-4">
+    <span class="font-bold text-6xl tracking-widest color-change-red">游戏</span>
+    <span class="font-bold text-6xl tracking-widest color-change-green">音频</span>
+    <span class="font-bold text-6xl tracking-widest color-change-blue">设计</span>
+    <span class="font-bold text-3xl tracking-wide color-change-red">Game</span>
+    <span class="font-bold text-3xl tracking-wide color-change-green">Audio</span>
+    <span class="font-bold text-3xl tracking-wide color-change-blue">Design</span>
+  </div>
+</div>
+
 <br>
 <br>
 <span class="opacity-50">希辰 Xichen</span>
@@ -81,7 +108,7 @@ Aug 2015 – Apr 2019
 layout: header-body
 ---
 
-## **课程简介**
+### **课程简介**
 
 ::body::
 
@@ -100,7 +127,7 @@ layout: header-body
 layout: header-body-center-left
 ---
 
-## **课程简介**
+### **课程简介**
 
 ::body::
 
@@ -120,19 +147,16 @@ graph LR
 -->
 
 ---
+layout: section
+---
+
+## **游戏开发与游戏音频设计**
+**What is Game Audio Design**
+
+---
 layout: header-body
 ---
 
-<div class="flex items-center justify-center text-center mt-50">
-  <div class="grid grid-cols-3 gap-4">
-    <div class="text-red-500 text-4xl font-bold">游戏</div>
-    <div class="text-green-500 text-4xl font-bold">音频</div>
-    <div class="text-blue-500 text-4xl font-bold">设计</div>
-    <div class="text-red-500 text-2xl">Game</div>
-    <div class="text-green-500 text-2xl">Audio</div>
-    <div class="text-blue-500 text-2xl">Design</div>
-  </div>
-</div>
 
 <!--
 游戏·音频·设计
@@ -142,7 +166,7 @@ layout: header-body
 layout: header-body-center-top
 ---
 
-## **Dev Team**
+### **Dev Team**
 
 ::body::
 
@@ -167,7 +191,7 @@ graph TD
 layout: header-body-center
 ---
 
-## **Dev Stage**
+### **Dev Stage**
 
 ::body::
 
@@ -187,7 +211,7 @@ timeline
 layout: header-body-center
 ---
 
-## **Dev Tool**
+### **Dev Tool**
 
 ::body::
 
