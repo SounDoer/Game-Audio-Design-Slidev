@@ -9,6 +9,8 @@ fonts:
   sans: Noto Sans
   serif: Robot Slab
   mono: Fira Code
+aspectRatio: 16/9
+canvasWidth: 1080
 layout: cover
 class: text-center
 ---
@@ -107,16 +109,15 @@ graph LR
 layout: default
 ---
 
-<div class="grid grid-cols-3 gap-2 mt-50 text-center">
-
-## <span class="text-red-500">**游戏**</span>
-## <span class="text-green-500">**音频**</span>
-## <span class="text-blue-500">**设计**</span>
-
-#### <span class="text-red-500">**Game**</span>
-#### <span class="text-green-500">**Audio**</span>
-#### <span class="text-blue-500">**Design**</span>
-
+<div class="flex items-center justify-center text-center mt-50">
+  <div class="grid grid-cols-3 gap-4">
+    <div class="text-red-500 text-4xl font-bold">游戏</div>
+    <div class="text-green-500 text-4xl font-bold">音频</div>
+    <div class="text-blue-500 text-4xl font-bold">设计</div>
+    <div class="text-red-500 text-2xl">Game</div>
+    <div class="text-green-500 text-2xl">Audio</div>
+    <div class="text-blue-500 text-2xl">Design</div>
+  </div>
 </div>
 
 <!--
