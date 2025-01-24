@@ -83,7 +83,7 @@ layout: header-body
 -->
 
 ---
-layout: header-body
+layout: header-body-center-left
 ---
 
 ## **课程简介**
@@ -106,7 +106,7 @@ graph LR
 -->
 
 ---
-layout: default
+layout: header-body
 ---
 
 <div class="flex items-center justify-center text-center mt-50">
@@ -125,7 +125,7 @@ layout: default
 -->
 
 ---
-layout: header-body
+layout: header-body-center-top
 ---
 
 ## **Dev Team**
@@ -150,7 +150,7 @@ graph TD
 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ## **Dev Stage**
@@ -170,16 +170,14 @@ timeline
 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ## **Dev Tool**
 
 ::body::
 
-<div class="flex justify-center items-center h-full">
-  <img src="/dev-tool-logo.png" alt="Dev Tool Logo" style="width: 720px; height: auto;" />
-</div>
+<img src="/dev-tool-logo.png" alt="Dev Tool Logo" style="width: 800px; height: auto;" />
 
 ---
 layout: image-right
