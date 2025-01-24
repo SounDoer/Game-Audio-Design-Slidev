@@ -189,8 +189,9 @@ layout: header-body
 
 ::body::
 
-<img src="/SYNCED_FIN_PNG_1280.png" alt="" class="w-40 h-auto absolute left-60px bottom-120px" />
-
+<div class="flex justify-center items-center h-full">
+  <img src="/dev-tool-logo.png" alt="Dev Tool Logo" style="width: 720px; height: auto;" />
+</div>
 
 ---
 layout: image-right
