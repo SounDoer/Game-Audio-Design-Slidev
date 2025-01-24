@@ -18,3 +18,41 @@ src: ./pages/intro.md
 ---
 src: ./pages/game-development-and-game-audio-design.md
 ---
+
+---
+src: ./pages/spatial-audio.md
+---
+
+---
+src: ./pages/ambience-sound-design.md
+---
+
+---
+src: ./pages/character-foley-design.md
+---
+
+---
+src: ./pages/gun-sound-design.md
+---
+
+---
+src: ./pages/vehicle-sound-design.md
+---
+
+---
+src: ./pages/music-design.md
+---
+
+---
+src: ./pages/voice-design.md
+---
+
+---
+src: ./pages/game-audio-mixing.md
+---
+
+
+
+---
+src: ./pages/fin.md
+---
