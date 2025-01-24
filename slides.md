@@ -30,10 +30,10 @@ class: text-center
 </style>
 
 # <span class="tracking-widest color-change">**游戏音频设计**</span>
-## **Game Audio Design**
+## <span class="tracking-wide color-change">**Game Audio Design**</span>
 <br>
 <br>
-Xichen
+<span class="opacity-50">希辰 Xichen</span>
 
 <!--
 The last comment block of each slide will be treated as slide notes.
