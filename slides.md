@@ -26,10 +26,10 @@ The last comment block of each slide will be treated as slide notes.
 -->
 
 ---
-layout: two-cols-header
+layout: header-body-two-cols
 ---
 
-## **沈希辰**  
+### **沈希辰**  
 Xichen Shen
 
 ::left::
