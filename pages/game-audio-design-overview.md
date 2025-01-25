@@ -2,8 +2,8 @@
 layout: section
 ---
 
-## **游戏音频设计概述**
-**Game Audio Design Overview**
+## 游戏音频设计概述
+Game Audio Design Overview
 
 ---
 layout: default
@@ -26,8 +26,7 @@ layout: default
 layout: header-body-center-left
 ---
 
-### **Audio Team**
-阿斯蒂芬
+### Audio Team
 
 ::body::
 
@@ -39,8 +38,6 @@ graph LR
   root --- D(Technical Audio)
 ```
 
-
-
 <!--
 - 音频组内部的分工形式
 - 技术音频是什么
@@ -51,7 +48,7 @@ graph LR
 layout: header-body-center-top
 ---
 
-### **Dev Team**
+### Dev Team
 
 ::body::
 
@@ -76,7 +73,7 @@ graph TD
 layout: header-body-center
 ---
 
-### **Dev Stage**
+### Dev Stage
 
 ::body::
 
@@ -96,7 +93,7 @@ timeline
 layout: header-body-center
 ---
 
-### **Dev Tool**
+### Dev Tool
 
 ::body::
 
@@ -106,5 +103,5 @@ layout: header-body-center
 layout: statement
 ---
 
-### **游戏开发是系统工程，游戏音频设计也应如此。**
-**Game development is like systems engineering, and so is game audio design.**
+### 游戏开发是系统工程，游戏音频设计也应如此。
+Game development is like systems engineering, and so is game audio design.

@@ -58,7 +58,7 @@ The last comment block of each slide will be treated as slide notes.
 layout: header-body-two-cols
 ---
 
-### **沈希辰**  
+### 沈希辰
 Xichen Shen
 
 ::left::
@@ -96,7 +96,7 @@ Aug 2015 – Apr 2019
 layout: header-body
 ---
 
-### **课程简介**
+### 课程简介
 
 ::body::
 
@@ -115,7 +115,7 @@ layout: header-body
 layout: header-body-center-left
 ---
 
-### **课程简介**
+### 课程简介
 
 ::body::
 
