@@ -48,7 +48,7 @@ class: text-center
 
 <br>
 <br>
-<span class="opacity-50">希辰 Xichen</span>
+<span class="text-sm opacity-50">希辰 Xichen</span>
 
 <!--
 The last comment block of each slide will be treated as slide notes.
@@ -81,11 +81,11 @@ Aug 2015 – Apr 2019
 
 ::right::
 
-<div class="grid grid-cols-2 gap-1 my-5">
-  <img src="/SYNCED_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
-  <img src="/FarCryNewDawn_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
-  <img src="/FarCry5_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
-  <img src="/FarCryPrimal_FIN_PNG_1280.png" alt="" class="w-full h-auto" />
+<div class="flex flex-wrap justify-center gap-1 mt-5">
+  <img src="/SYNCED_FIN_PNG_1280.png" alt="SYNCED" style="width: 45%; height: auto;">
+  <img src="/FarCryNewDawn_FIN_PNG_1280.png" alt="FarCry New Dawn" style="width: 45%; height: auto;">
+  <img src="/FarCry5_FIN_PNG_1280.png" alt="FarCry 5" style="width: 45%; height: auto;">
+  <img src="/FarCryPrimal_FIN_PNG_1280.png" alt="FarCry Primal" style="width: 45%; height: auto;">
 </div>
 
 <!--
@@ -112,24 +112,51 @@ layout: header-body
 -->
 
 ---
-layout: header-body-center-left
+layout: header-body-three-cols
 ---
 
-### 课程简介
+### 内容大纲
 
-::body::
+::left::
 
-```mermaid {theme: 'neutral', scale: '0.8'}
-graph LR
-  root(课程内容) --- A(理论)
-    A --- A1(子节点A1)
-    A --- A2(子节点A2)
-  root --- B(实践)
-    B --- B1(子节点B1)
-    B --- B2(子节点B2)
-  root --- C(作业)
-```
+<div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
 
-<!-- 
-树状图结构待补充
--->
+#### 理论
+- Game Audio Design Overview
+- Spatial Audio
+- Sound Effect Design
+  - Ambience Sound Design
+  - Character Foley Design
+  - Gun Sound Design
+  - Vehicle Sound Design
+- Music Design
+- Voice Design
+- Game Audio Mixing
+- ……
+
+</div>
+
+::mid::
+
+<div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
+
+#### 实践
+- Game Engine
+- Game Audio Middleware
+- Source Control
+
+</div>
+
+::right::
+
+<div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
+
+#### 作业
+- A1
+- A2
+- B1
+- B2
+
+</div>
+
+<!-- …… -->
