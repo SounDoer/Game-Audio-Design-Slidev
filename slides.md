@@ -9,6 +9,7 @@ fonts:
   sans: Noto Sans
   serif: Robot Slab
   mono: Fira Code
+colorSchema: dark
 aspectRatio: 16/9
 canvasWidth: 1080
 
@@ -16,7 +17,7 @@ src: ./pages/intro.md
 ---
 
 ---
-src: ./pages/game-development-and-game-audio-design.md
+src: ./pages/game-audio-design-overview.md
 ---
 
 ---

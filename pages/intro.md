@@ -6,19 +6,19 @@ class: text-center
 <style>
 @keyframes color-change-red {
   0% { color: #ffffff; } /* 白色 */
-  50% { color: #ff7f7f; } /* 较亮的红色 */
+  50% { color: #ff0000; } /* 较亮的红色 */
   100% { color: #ffffff; } /* 白色 */
 }
 
 @keyframes color-change-green {
   0% { color: #ffffff; } /* 白色 */
-  50% { color: #7fff7f; } /* 较亮的绿色 */
+  50% { color: #00ff00; } /* 较亮的绿色 */
   100% { color: #ffffff; } /* 白色 */
 }
 
 @keyframes color-change-blue {
   0% { color: #ffffff; } /* 白色 */
-  50% { color: #7f7fff; } /* 较亮的蓝色 */
+  50% { color: #0000ff; } /* 较亮的蓝色 */
   100% { color: #ffffff; } /* 白色 */
 }
 
@@ -36,7 +36,7 @@ class: text-center
 </style>
 
 <div class="flex items-center justify-center text-center">
-  <div class="grid grid-cols-3 gap-4">
+  <div class="grid grid-cols-3 gap-4 opacity-80">
     <span class="font-bold text-6xl tracking-widest color-change-red">游戏</span>
     <span class="font-bold text-6xl tracking-widest color-change-green">音频</span>
     <span class="font-bold text-6xl tracking-widest color-change-blue">设计</span>
