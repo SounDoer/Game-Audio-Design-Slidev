@@ -23,10 +23,40 @@ layout: default
 <!--概述：游戏·音频·设计-->
 
 ---
+layout: header-body
+---
+
+### 技能树 Skillset
+既有艺术创作方面的制作能力，还有技术思维方面的实现能力。
+
+::body::
+
+- 声学基础
+- 录音技术
+- 数字音频制作
+- 声音设计
+- 混音
+- 游戏设计基础
+- 游戏引擎
+- 游戏音频中间件
+- 技术音频
+
+---
+layout: header-body
+---
+
+### 工作流 Workflow
+根据设计需求制作出相应的音频数据，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的游戏表现。
+
+::body::
+
+<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 30%; height: auto;">
+
+---
 layout: header-body-center-left
 ---
 
-### Audio Team
+### 音频团队 Audio Team
 
 ::body::
 
@@ -48,7 +78,7 @@ graph LR
 layout: header-body-center-top
 ---
 
-### Dev Team
+### 开发团队 Dev Team
 
 ::body::
 
@@ -73,7 +103,7 @@ graph TD
 layout: header-body-center
 ---
 
-### Dev Stage
+### 开发环节 Dev Stage
 
 ::body::
 
