@@ -21,7 +21,11 @@ src: ./pages/game-audio-design-overview.md
 ---
 
 ---
-src: ./pages/spatial-audio.md
+src: ./pages/how-to-listen-sound.md
+---
+
+---
+src: ./pages/audio-spatialization.md
 ---
 
 ---
