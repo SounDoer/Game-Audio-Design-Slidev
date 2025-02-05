@@ -100,6 +100,33 @@ layout: header-body-center
 <img src="/dev-tool-logo.png" alt="Dev Tool Logo" style="width: 800px; height: auto;" />
 
 ---
+layout: header-body-two-cols
+---
+
+### AI Tool
+
+::left::
+
+- Natural Language Processing
+- Computer Vision
+  - Text-to-Image
+  - Text-to-Video
+  - Text-to-3D
+  - Image-to-3D
+- Audio
+  - Speech Recognition
+  - Text-to-Speech
+  - Text-to-Music
+  - Text-to-Sound
+  - Audio-to-Audio
+- ...
+
+::right::
+
+<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 75%; height: auto;">
+
+
+---
 layout: statement
 ---
 
