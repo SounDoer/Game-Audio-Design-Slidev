@@ -124,7 +124,7 @@ layout: header-body-center
 ---
 
 ### Dev Tool
-Source Control, Game Engine, Game Audio Middleware and Others
+Version Control, Game Engine, Game Audio Middleware and Others
 
 ::body::
 
