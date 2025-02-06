@@ -45,18 +45,43 @@ layout: header-body-center
 
 ::body::
 
-<img src="/digital-audio-signal-dynamic-range.png" alt="Digital Audio Signal Loudness" style="width: 70%; height: auto;" />
+<img src="/digital-audio-signal-dynamic-range.png" alt="Digital Audio Signal Dynamic Range" style="width: 68%; height: auto;" />
 
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
-### 
+### 频谱仪和响度表
+
+::body::
+
+<img src="/audio-meter.png" alt="Audio Meter" style="width: 75%; height: auto;" />
+
+<!--
+https://www.voxengo.com/product/span/
+https://www.bluecataudio.com/Products/Product_FreqAnalyst/
+https://youlean.co/youlean-loudness-meter/
+-->
+
+---
+layout: header-body-center
+---
+
+### 听声设备和环境
+
+::body::
+
+
+<!--
+主流耳机和声卡品牌
+耳机校准
+音箱校准
+-->
 
 ---
 layout: statement
 ---
 
-#### 校正日常的听声环境，养成良好的听声习惯。
-Adjust daily listening environment and cultivate good listening habits.
+#### 校准日常的听声环境，养成良好的听声习惯。
+Adjust daily listening environment and cultivate good listening habit.

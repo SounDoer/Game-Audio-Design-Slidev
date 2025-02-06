@@ -161,6 +161,12 @@ layout: header-body-two-cols
 
 <img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 75%; height: auto;">
 
+---
+layout: statement
+---
+
+#### 得体地使用优雅的工具。
+Use elegent tools decently.
 
 ---
 layout: statement
