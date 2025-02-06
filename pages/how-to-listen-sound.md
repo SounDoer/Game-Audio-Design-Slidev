@@ -13,15 +13,11 @@ layout: header-body-center
 
 ::body::
 
-<img v-click src="/listen-digital-audio.png" alt="Listen Digital Audio" style="width: 85%; height: auto;" />
+<img src="/listen-digital-audio.png" alt="Listen Digital Audio" style="width: 85%; height: auto;" />
 
 <!--
 从数字音频制品到最终听感效果
 有哪些因素会影响听到的声音？
-
-校正听声环境
-
-养成良好的听声习惯
 -->
 
 ---
@@ -36,6 +32,22 @@ layout: header-body-center
 
 <img src="/digital-audio-signal-loudness.png" alt="Digital Audio Signal Loudness" style="width: 75%; height: auto;" />
 
+<!--
+互动提问：0dBFS 代表什么意思
+-->
+
+---
+layout: header-body-center
+---
+
+### 数字音频信号的动态范围
+⼴播、电视、电影、⾳乐和游戏等内容和流媒体平台的响度和动态范围规范
+
+::body::
+
+<img src="/digital-audio-signal-dynamic-range.png" alt="Digital Audio Signal Loudness" style="width: 70%; height: auto;" />
+
+
 ---
 layout: header-body
 ---
@@ -47,4 +59,4 @@ layout: statement
 ---
 
 #### 校正日常的听声环境，养成良好的听声习惯。
-Adjust your daily listening environment and cultivate good listening habits.
+Adjust daily listening environment and cultivate good listening habits.
