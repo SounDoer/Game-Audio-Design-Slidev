@@ -40,6 +40,7 @@ layout: header-body
 - 游戏引擎
 - 游戏音频中间件
 - 技术音频
+- ……
 
 ---
 layout: header-body
@@ -165,5 +166,5 @@ layout: header-body-two-cols
 layout: statement
 ---
 
-### 游戏开发是系统工程，游戏音频设计也应如此。
+#### 游戏开发是系统工程，游戏音频设计也应如此。
 Game development is like systems engineering, and so is game audio design.
