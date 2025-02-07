@@ -74,12 +74,14 @@ layout: header-body-center
 
 
 <!--
-主流耳机和声卡品牌
-耳机校准
-Sonarworks SoundID Reference
-dSONIQ Realphone
-Toneboosters Morphit
-音箱校准
+- 主流耳机和声卡品牌
+- 找到合适的 Mixing Reference
+- 确定合适的监听响度
+- 是否需要校准？
+  - 耳机音箱校准
+    Sonarworks SoundID Reference
+    dSONIQ Realphone
+    Toneboosters Morphit
 -->
 
 ---
