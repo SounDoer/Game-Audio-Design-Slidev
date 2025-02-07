@@ -45,13 +45,8 @@ layout: header-body
 
 ::body::
 
-```mermaid {theme: 'neutral', scale: '0.8'}
-timeline
-    2002 : LinkedIn
-    2004 : Facebook
-         : Google
-    2005 : Youtube
-    2006 : Twitter
+```mermaid {theme: 'neutral', scale: '0.6'}
+gantt
 ```
 <!--
 开发阶段
