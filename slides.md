@@ -21,6 +21,10 @@ src: ./pages/game-audio-design-overview.md
 ---
 
 ---
+src: ./pages/dev-tool.md
+---
+
+---
 src: ./pages/how-to-listen-sound.md
 ---
 

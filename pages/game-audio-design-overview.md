@@ -3,7 +3,7 @@ layout: section
 ---
 
 ## 游戏音频设计概述
-Game Audio Design Overview
+**Game Audio Design Overview**
 
 ---
 layout: default
@@ -26,38 +26,69 @@ layout: default
 layout: header-body
 ---
 
-### 技能树 Skillset
-既有艺术创作方面的制作能力，还有技术思维方面的实现能力。
+### <span class="text-red-500">游戏</span>
+[电子游戏 Video Game](https://en.wikipedia.org/wiki/Video_game)
 
 ::body::
 
-- 声学基础
-- 录音技术
-- 数字音频制作
-- 声音设计
-- 混音
-- 游戏设计基础
-- 游戏引擎
-- 游戏音频中间件
-- 技术音频
-- ……
+<!--
+- 互动媒体
+- 趋势：平台之间的性能差距越来越小，多端游戏涌现
+-->
 
 ---
 layout: header-body
 ---
 
-### 工作流 Workflow
-根据设计需求制作出相应的音频数据，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的游戏表现。
+### <span class="text-red-500">游戏</span>
+开发阶段 Dev Stage
 
 ::body::
 
-<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 30%; height: auto;">
+```mermaid {theme: 'neutral', scale: '0.8'}
+timeline
+    2002 : LinkedIn
+    2004 : Facebook
+         : Google
+    2005 : Youtube
+    2006 : Twitter
+```
+<!--
+开发阶段
+-->
 
 ---
-layout: header-body-center-left
+layout: header-body
 ---
 
-### 音频团队 Audio Team
+### <span class="text-red-500">游戏</span>
+开发团队 Dev Team
+
+::body::
+
+```mermaid {theme: 'neutral', scale: '0.8'}
+graph TD
+  root(Game Studio) --- A(项目A)
+    A --- A1(Programmer)
+    A --- A2(Designer)
+    A --- A3(Artist)
+  root --- B(中台)
+    B --- B1(子节点B1)
+    B --- B2(子节点B2)
+  root --- C(其他)
+```
+
+<!--
+音频组在什么位置
+音频会跟各个工种和模块打交道：材质、动画、特效、关卡……
+-->
+
+---
+layout: header-body
+---
+
+### <span class="text-red-500">游戏</span>
+音频团队 Audio Team
 
 ::body::
 
@@ -76,97 +107,86 @@ graph LR
 -->
 
 ---
-layout: header-body-center-top
+layout: header-body
 ---
 
-### 开发团队 Dev Team
+### <span class="text-green-500">音频</span>
+音频设计的从头到尾
 
 ::body::
 
-```mermaid {theme: 'neutral', scale: '0.8'}
-graph TD
-  root(Game Studio) --- A(项目A)
-    A --- A1(Programmer)
-    A --- A2(Designer)
-    A --- A3(Artist)
-  root --- B(中台)
-    B --- B1(子节点B1)
-    B --- B2(子节点B2)
-  root --- C(其他)
-```
-
 <!--
-音频会跟各个工种和模块打交道：材质、动画、特效、关卡……
-音频属于哪里？
+- 音频设计 End-to-End
+- 技术与艺术的结合
 -->
 
 ---
-layout: header-body-center
+layout: header-body
 ---
 
-### 开发环节 Dev Stage
+### <span class="text-green-500">音频</span>
+技能树
 
 ::body::
 
-```mermaid {theme: 'neutral', scale: '0.8'}
-timeline
-    2002 : LinkedIn
-    2004 : Facebook
-         : Google
-    2005 : Youtube
-    2006 : Twitter
-```
+既有艺术创作方面的制作能力，还有技术思维方面的实现能力。
+
+- 声学基础
+- 录音技术
+- 数字音频制作
+- 声音设计
+- 混音
+- 游戏设计基础
+- 游戏引擎
+- 游戏音频中间件
+- 技术音频
+- ……
+
 <!--
-开发环节
+- 结合技能树
 -->
 
 ---
-layout: header-body-center
+layout: header-body
 ---
 
-### Dev Tool
-Version Control, Game Engine, Game Audio Middleware and Others
+### <span class="text-blue-500">设计</span>
+工作流 Workflow，根据设计需求制作出相应的音频数据，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的游戏表现。
 
 ::body::
 
-<div>
-  <img v-click src="/dev-tool-logo-01.png" alt="Dev Tool Logo 01" style="width: 800px; height: auto;" />
-  <br>
-  <img v-click src="/dev-tool-logo-02.png" alt="Dev Tool Logo 02" style="width: 800px; height: auto;" />
-</div>
+<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 30%; height: auto;">
+
+<!--
+-->
 
 ---
-layout: header-body-two-cols
+layout: header-body
 ---
 
-### AI Tool
+### <span class="text-blue-500">设计</span>
+设计的三个考虑层面
 
-::left::
+::body::
 
-- Natural Language Processing
-- Computer Vision
-  - Text-to-Image
-  - Text-to-Video
-  - Text-to-3D
-  - Image-to-3D
-- Audio
-  - Speech Recognition
-  - Text-to-Speech
-  - Text-to-Music
-  - Text-to-Sound
-  - Audio-to-Audio
-- ...
-
-::right::
-
-<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 75%; height: auto;">
+<!--
+设计的三个考虑层面：
+- 美学
+- 功能
+- 与游戏类型和玩法机制相结合
+-->
 
 ---
-layout: statement
+layout: header-body
 ---
 
-#### 得体地使用优雅的工具。
-Use elegent tools decently.
+### <span class="text-blue-500">设计</span>
+如何设计“听声辨位”
+
+::body::
+
+<!--
+-->
 
 ---
 layout: statement
