@@ -106,13 +106,11 @@ layout: header-body
 ---
 
 ### <span class="text-green-500">音频</span>
-音频设计的从头到尾
+音效、音乐、语音
 
 ::body::
 
 <!--
-- 音频设计 End-to-End
-- 技术与艺术的结合
 -->
 
 ---
@@ -120,25 +118,27 @@ layout: header-body
 ---
 
 ### <span class="text-green-500">音频</span>
-技能树
+在做出好听的声音之外，还有考虑其他的问题
 
 ::body::
 
+<!--
 既有艺术创作方面的制作能力，还有技术思维方面的实现能力。
+-->
 
-- 声学基础
-- 录音技术
-- 数字音频制作
-- 声音设计
-- 混音
-- 游戏设计基础
-- 游戏引擎
-- 游戏音频中间件
-- 技术音频
-- ……
+---
+layout: header-body
+---
+
+### <span class="text-green-500">音频</span>
+根据设计需求制作出相应的音频数据，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的游戏表现。
+
+::body::
+
+<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 30%; height: auto;">
 
 <!--
-- 结合技能树
+the core audio data
 -->
 
 ---
@@ -146,13 +146,12 @@ layout: header-body
 ---
 
 ### <span class="text-blue-500">设计</span>
-工作流 Workflow，根据设计需求制作出相应的音频数据，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的游戏表现。
+Design Workflow
 
 ::body::
 
-<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 30%; height: auto;">
-
 <!--
+游戏音频设计工作流，包含前期设计、功能开发、资源制作、数据整合与测试优化等环节的迭代式开发流程
 -->
 
 ---
