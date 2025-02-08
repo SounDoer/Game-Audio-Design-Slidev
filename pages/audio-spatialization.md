@@ -87,12 +87,14 @@ layout: header-body-center
 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 声音衰减 Sound Attenuation
 
 ::body::
+
+<img src="/sound-attenuation.svg" alt="Sound Attenuation" style="width: auto; height: 450px;">
 
 <!--  -->
 
