@@ -31,14 +31,14 @@ layout: header-body-two-cols
 
 <div v-click>
     Channel-Based
-    <img src="/channel-based-positioning.svg" alt="Channel Based Positioning" style="width: 80%; height: auto;">
+    <img src="/channel-based-positioning.svg" alt="Channel Based Positioning" style="width: auto; height: 420px;">
 </div>
 
 ::right::
 
 <div v-click>
     Object-Based
-    <img src="/object-based-positioning.svg" alt="Object Based Positioning" style="width: 90%; height: auto;">
+    <img src="/object-based-positioning.svg" alt="Object Based Positioning" style="width: auto; height: 420px;">
 </div>
 
 <!--
@@ -53,27 +53,33 @@ layout: header-body-center
 
 ::body::
 
-<img src="/space-partition.svg" alt="Space Partition.svg" style="width: 75%; height: auto;">
+<img src="/space-partition.svg" alt="Space Partition" style="width: auto; height: 450px;">
 
-<!--  -->
+<!--
+- 使用 Volume 来界定 Region、Room 和 Portal 等
+-->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 反射与混响 Reflect & Reverb
 
 ::body::
 
+<img src="/reflect-reverb.svg" alt="Reflect-Reverb" style="width: auto; height: 450px;">
+
 <!--  -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 衍射与透射 Diffraction & Transmission
 
 ::body::
+
+<img src="/diffraction-transmission.svg" alt="Diffraction Transmission" style="width: auto; height: 450px;">
 
 <!--
 - Diffraction & Transmission
