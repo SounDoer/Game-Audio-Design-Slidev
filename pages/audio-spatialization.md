@@ -30,14 +30,14 @@ layout: header-body-two-cols
 
 <div v-click>
     Channel-Based
-    <img src="/channel-based-positioning.png" alt="Channel Based Positioning" style="width: 80%; height: auto;">
+    <img src="/channel-based-positioning.svg" alt="Channel Based Positioning" style="width: 80%; height: auto;">
 </div>
 
 ::right::
 
 <div v-click>
     Object-Based
-    <img src="/object-based-positioning.png" alt="Object Based Positioning" style="width: 90%; height: auto;">
+    <img src="/object-based-positioning.svg" alt="Object Based Positioning" style="width: 90%; height: auto;">
 </div>
 
 <!--
