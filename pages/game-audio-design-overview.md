@@ -114,6 +114,21 @@ layout: header-body
 -->
 
 ---
+layout: header-body-center
+---
+
+### <span class="text-green-500">音频</span>
+根据**设计需求**制作出相应的**音频数据**，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的**游戏表现**。
+
+::body::
+
+<img src="/the-core-audio-data.svg" alt="The Core Audio Data" style="width: 100%; height: auto;">
+
+<!--
+the core audio data
+-->
+
+---
 layout: header-body
 ---
 
@@ -124,21 +139,6 @@ layout: header-body
 
 <!--
 既有艺术创作方面的制作能力，还有技术思维方面的实现能力。
--->
-
----
-layout: header-body
----
-
-### <span class="text-green-500">音频</span>
-根据设计需求制作出相应的音频数据，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的游戏表现。
-
-::body::
-
-<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 30%; height: auto;">
-
-<!--
-the core audio data
 -->
 
 ---
