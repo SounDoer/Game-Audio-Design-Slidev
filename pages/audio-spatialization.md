@@ -14,6 +14,7 @@ layout: header-body
 ::body::
 
 - 声像定位
+- 空间划分
 - 反射与混响
 - 衍射与透射
 - 声音衰减
@@ -43,6 +44,18 @@ layout: header-body-two-cols
 <!--
 - Listener & Emitter
 -->
+
+---
+layout: header-body-center
+---
+
+### 空间划分 Space Partition
+
+::body::
+
+<img src="/space-partition.svg" alt="Space Partition.svg" style="width: 75%; height: auto;">
+
+<!--  -->
 
 ---
 layout: header-body
