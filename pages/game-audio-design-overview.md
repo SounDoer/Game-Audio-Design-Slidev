@@ -125,20 +125,8 @@ layout: header-body-center
 <img src="/the-core-audio-data.svg" alt="The Core Audio Data" style="width: 100%; height: auto;">
 
 <!--
-the core audio data
--->
-
----
-layout: header-body
----
-
-### <span class="text-green-500">音频</span>
-在做出好听的声音之外，还有考虑其他的问题
-
-::body::
-
-<!--
-既有艺术创作方面的制作能力，还有技术思维方面的实现能力。
+- 在做出好听的声音之外，还有考虑其他的问题
+- 既有艺术创作方面的制作能力，还有技术思维方面的实现能力。
 -->
 
 ---
@@ -161,25 +149,36 @@ layout: header-body
 ---
 
 ### <span class="text-blue-500">设计</span>
-设计的三个考虑层面
+声音的“好听”和“有用”
 
 ::body::
 
+- 美学性：与**艺术风格**和**内容表现**相匹配
+- 功能性：与**游戏类型**和**玩法机制**相结合
+
 <!--
-设计的三个考虑层面：
-- 美学
-- 功能
-- 与游戏类型和玩法机制相结合
 -->
 
 ---
-layout: header-body
+layout: header-body-two-cols
 ---
 
-### <span class="text-blue-500">设计</span>
-如何设计“听声辨位”
+### 听声辨位
 
-::body::
+::left::
+
+<v-clicks>
+
+- 脚步声是玩家获取信息的重要声⾳
+- 游戏内各种类别声⾳的听感⼤⼩和传播距离不同
+- 声⾳传播时会受到房间、⻔和障碍物的影响
+- 玩家能够根据听到的声⾳来判断声源的距离和⽅位
+
+</v-clicks>
+
+::right::
+
+<img src="/locating-with-sound.png" alt="Locating with Sound" style="width: 100%; height: auto;">
 
 <!--
 -->
