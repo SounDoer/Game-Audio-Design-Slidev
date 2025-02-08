@@ -150,6 +150,8 @@ Design Workflow
 
 ::body::
 
+<img src="/design-workflow.svg" alt="Design Flow" style="width: 100%; height: auto;">
+
 <!--
 游戏音频设计工作流，包含前期设计、功能开发、资源制作、数据整合与测试优化等环节的迭代式开发流程
 -->
