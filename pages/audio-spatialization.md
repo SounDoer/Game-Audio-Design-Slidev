@@ -99,10 +99,27 @@ layout: header-body-center
 <!--  -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
-### Wwise Spatial Audio
+### 音频空间化
+
+::body::
+
+<div class="grid grid-cols-2 gap-6">
+  <div class="flex justify-center items-center">
+    <img src="/object-based-positioning.svg" alt="Object Based Positioning" style="width: auto; height: 220px;">
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="/space-partition.svg" alt="Space Partition" style="width: auto; height: 220px;">
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="/diffraction-transmission.svg" alt="Diffraction Transmission" style="width: auto; height: 220px;">
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="/sound-attenuation.svg" alt="Sound Attenuation" style="width: auto; height: 220px;">
+  </div>
+</div>
 
 <!--
 https://www.audiokinetic.com/en/wwise/wwise-spatial-audio/
@@ -112,7 +129,11 @@ https://www.audiokinetic.com/en/wwise/wwise-spatial-audio/
 layout: header-body
 ---
 
-### 2D 和 3D 声音的区别和应用
+### 现成的解决方案
+
+[Wwise Spatial Audio](https://www.audiokinetic.com/zh/wwise/wwise-spatial-audio/)
+
+::body::
 
 <!--  -->
 
