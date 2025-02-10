@@ -108,8 +108,10 @@ layout: header-body
 <!-- 
 - 现在不缺学习资料，AI，很多东西需要自学
 - 游戏音频设计的哲学 / 框架 / 方法论
+- Concept, Theory, Framework, Methodology, Philosophy
 - 做一名专业的开发者，专业体现在哪里？
 - 多多提问和反馈
+- Course Prerequisites
 -->
 
 ---
@@ -160,4 +162,6 @@ layout: header-body-three-cols
 
 </div>
 
-<!-- …… -->
+<!--
+- Course Structure: Theory, Practice, Mixture of both
+-->
