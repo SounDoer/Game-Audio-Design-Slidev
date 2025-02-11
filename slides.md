@@ -53,6 +53,10 @@ src: ./pages/vehicle-sound-design.md
 ---
 
 ---
+src: ./pages/cinematic-sound-design.md
+---
+
+---
 src: ./pages/music-design.md
 ---
 

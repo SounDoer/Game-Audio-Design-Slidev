@@ -29,7 +29,9 @@ layout: header-body
 
 ::body::
 
-<!--  -->
+<!--
+- 以一个 cin seq 落石为例
+-->
 
 ---
 layout: header-body
