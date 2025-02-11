@@ -37,6 +37,10 @@ src: ./pages/ambience-sound-design.md
 ---
 
 ---
+src: ./pages/naming-convention.md
+---
+
+---
 src: ./pages/character-foley-design.md
 ---
 
