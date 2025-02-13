@@ -112,6 +112,7 @@ layout: header-body
 - Hands-on Practice
 - No how to use tools in details
 - No how to make nice sounds
+- 为什么，很重要；怎么做，不重要；
 - 做一名专业的开发者，专业体现在哪里？
 - 多多提问和反馈
 - Course Prerequisites
