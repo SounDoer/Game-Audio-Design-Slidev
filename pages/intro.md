@@ -140,17 +140,17 @@ layout: header-body-three-cols
 <div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
 
 #### 理论
-- 游戏音频设计概述
-- 开发流程与工具管线
-- 音频空间化
-- 环境声设计
-- 角色拟音设计
-- 枪械声音设计
-- 载具声音设计
-- 影视化内容声音设计
-- 音乐设计
-- 语音设计
-- 游戏音频混音
+- Game Audio Design Overview
+- Dev Workflow & Dev Tool
+- Audio Spatialization
+- Ambience Sound Design
+- Character Foley Design
+- Gun Sound Design
+- Music Design
+- Voice Design
+- Game Audio Debug
+- Game Audio Mixing
+- Game Audio with AI
 - ……
 
 </div>
@@ -162,9 +162,9 @@ layout: header-body-three-cols
 <div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
 
 #### 实践
-- 使用版本控制工具
-- 使用游戏引擎
-- 使用游戏音频中间件
+- Use Version Control
+- Use Game Engine
+- Use Game Audio Middleware
 - ……
 
 </div>

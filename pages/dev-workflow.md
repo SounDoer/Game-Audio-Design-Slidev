@@ -9,8 +9,7 @@ layout: section
 layout: header-body
 ---
 
-### <span class="text-red-500">游戏</span>
-开发阶段 Dev Stage
+### 开发阶段 Dev Stage
 
 ::body::
 
@@ -25,8 +24,7 @@ https://www.ubisoft.com/en-us/company/how-we-make-games/creative-process
 layout: header-body
 ---
 
-### <span class="text-red-500">游戏</span>
-开发团队 Dev Team
+### 开发团队 Dev Team
 
 ::body::
 
@@ -51,8 +49,7 @@ graph TD
 layout: header-body
 ---
 
-### <span class="text-red-500">游戏</span>
-音频团队 Audio Team
+### 音频团队 Audio Team
 
 ::body::
 
@@ -74,7 +71,7 @@ graph LR
 layout: header-body-center
 ---
 
-### <span class="text-green-500">音频</span>
+### 音频数据 Audio Data
 根据**设计需求**制作出相应的**音频数据**，并将其整合到游戏引擎中去，与其它设计元素共同形成最终整体的**游戏表现**。
 
 ::body::
@@ -87,11 +84,10 @@ layout: header-body-center
 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
-### <span class="text-blue-500">设计</span>
-Design Workflow
+### 设计流程 Design Workflow
 
 ::body::
 
