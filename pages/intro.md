@@ -3,6 +3,7 @@ layout: cover
 class: text-center
 ---
 
+<!-- 
 <style>
 @keyframes color-change-red {
   0% { color: #ffffff; } /* 白色 */
@@ -45,10 +46,15 @@ class: text-center
     <span class="font-bold text-3xl tracking-wide color-change-blue">Design</span>
   </div>
 </div>
+-->
 
+<span class="font-bold text-6xl tracking-wide">游戏音频设计</span>
 <br>
 <br>
-<span class="text-sm opacity-50">希辰 Xichen</span>
+<span class="font-bold text-3xl tracking-wide">Game Audio Design</span>
+<br>
+<br>
+<span class="text-sm opacity-50">2025 SHU Shanghai Film Academy</span>
 
 <!--
 The last comment block of each slide will be treated as slide notes.
@@ -100,10 +106,14 @@ layout: header-body
 
 ::body::
 
+<v-clicks>
+
 - Who is this course for?
 - What does this course cover and not cover?
 - What to expect from this course?
 - What is expected from you?
+
+</v-clicks>
 
 <!-- 
 - 现在不缺学习资料，AI，很多东西需要自学
@@ -126,45 +136,50 @@ layout: header-body-three-cols
 
 ::left::
 
+<v-click>
 <div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
 
 #### 理论
-- Game Audio Design Overview
-- Spatial Audio
-- Sound Effect Design
-  - Ambience Sound Design
-  - Character Foley Design
-  - Gun Sound Design
-  - Vehicle Sound Design
-- Music Design
-- Voice Design
-- Game Audio Mixing
+- 游戏音频设计概述
+- 开发流程与工具管线
+- 音频空间化
+- 环境声设计
+- 角色拟音设计
+- 枪械声音设计
+- 载具声音设计
+- 影视化内容声音设计
+- 音乐设计
+- 语音设计
+- 游戏音频混音
 - ……
 
 </div>
+</v-click>
 
 ::mid::
 
+<v-click>
 <div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
 
 #### 实践
-- Game Engine
-- Game Audio Middleware
-- Source Control
+- 使用版本控制工具
+- 使用游戏引擎
+- 使用游戏音频中间件
+- ……
 
 </div>
+</v-click>
 
 ::right::
 
+<v-click>
 <div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
 
 #### 作业
-- A1
-- A2
-- B1
-- B2
+- ？
 
 </div>
+</v-click>
 
 <!--
 - Course Structure: Theory, Practice, Mixture of both
