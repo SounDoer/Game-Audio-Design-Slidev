@@ -23,12 +23,14 @@ layout: default
 <!--概述：游戏·音频·设计-->
 
 ---
-layout: cover
+layout: header-body-bg
 background: /game-poster.png
 ---
 
 ### <span class="text-red-500">游戏</span>
 [电子游戏 Video Game](https://en.wikipedia.org/wiki/Video_game)
+
+::body::
 
 #### By Genres
 - First-Person Shooter / Third-Person Shooter
