@@ -23,16 +23,21 @@ layout: default
 <!--概述：游戏·音频·设计-->
 
 ---
-layout: header-body
+layout: cover
+background: /game-poster.png
 ---
 
 ### <span class="text-red-500">游戏</span>
 [电子游戏 Video Game](https://en.wikipedia.org/wiki/Video_game)
 
-::body::
+#### By Genres
+- First-Person Shooter / Third-Person Shooter
+- 
+
+<!-- ![](/game-poster.png) -->
 
 <!--
-- 互动媒体
+- Interactive Media：同样是视听语言的媒介，与其他传统媒体之间的区别？
 - 趋势：平台之间的性能差距越来越小，多端游戏涌现
 -->
 
@@ -41,7 +46,7 @@ layout: header-body
 ---
 
 ### <span class="text-green-500">音频</span>
-音效、音乐、语音
+音效 Sound Effect · 音乐 Music · 语音 Voice
 
 ::body::
 
