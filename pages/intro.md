@@ -48,7 +48,7 @@ class: text-center
 </div>
 -->
 
-<span class="font-bold text-6xl tracking-wide">游戏音频设计</span>
+<span class="font-bold text-6xl tracking-widest">游戏音频设计</span>
 <br>
 <br>
 <span class="font-bold text-3xl tracking-wide">Game Audio Design</span>
@@ -141,7 +141,7 @@ layout: header-body-three-cols
 
 #### 理论
 - Game Audio Design Overview
-- Dev Workflow & Dev Tool
+- Dev Workflow & Tool
 - Audio Spatialization
 - Ambience Sound Design
 - Character Foley Design
@@ -176,7 +176,8 @@ layout: header-body-three-cols
 <div style="background-color:rgb(72, 72, 72); padding: 1rem; border-radius: 0.5rem;">
 
 #### 作业
-- ？
+- 3 Small Assignments
+- 1 Final Work
 
 </div>
 </v-click>
@@ -184,3 +185,22 @@ layout: header-body-three-cols
 <!--
 - Course Structure: Theory, Practice, Mixture of both
 -->
+
+---
+layout: header-body
+---
+
+### 课程评分
+
+- 考勤与课堂互动：10%
+- 实践与作业：20%
+- 期末作品：70%
+
+<!--  -->
+
+---
+layout: statement
+---
+
+#### 对本课程还有什么疑问？
+Any questions about the course?
