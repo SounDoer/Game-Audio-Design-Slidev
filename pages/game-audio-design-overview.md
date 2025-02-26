@@ -32,9 +32,34 @@ background: /game-poster.png
 
 ::body::
 
-#### By Genres
-- First-Person Shooter / Third-Person Shooter
-- 
+<div class="grid grid-cols-2 gap-4">
+
+  <div>
+
+  #### By Gameplay Genres
+  - First-Person Shooter / Third-Person Shooter
+  - Action / Adventure / Role-Playing
+  - Platformer / Metroidvania
+  - Multiplayer Online Battle Arena
+  - Strategy
+  - Simulation
+  - Racing
+  - Sports
+  - ……
+
+  </div>
+
+  <div>
+
+  #### By Platforms
+  - Console
+  - PC
+  - Mobile
+  - ……
+  
+  </div>
+
+</div>
 
 <!-- ![](/game-poster.png) -->
 
