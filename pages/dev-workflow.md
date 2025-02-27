@@ -39,23 +39,27 @@ layout: header-body
 ---
 
 ### 开发团队 Dev Team
+中台化的音频团队？
 
 ::body::
 
-```mermaid {theme: 'neutral', scale: '0.8'}
+```mermaid {theme: 'base', scale: '1', themeVariables:{fontSize: '16px', primaryTextColor: '#fff',primaryColor: '#828181', 'lineColor': '#fff'}}
 graph TD
-  root(Game Studio) --- A(项目A)
-    A --- A1(Programmer)
-    A --- A2(Designer)
-    A --- A3(Artist)
-  root --- B(中台)
-    B --- B1(子节点B1)
-    B --- B2(子节点B2)
-  root --- C(其他)
+  root(Game Studio) --- A(Project A)
+    A --- A1(Director)
+    A --- A2(PM)
+    A --- A3(Programmer)
+    A --- A4(Designer)
+    A --- A5(Artist)
+  root --- B(Project B)
+  root --- C(Project C)
+  root ---- D(Audio Team)
+  root ---- E(Others)
+style D fill:#173d03, stroke:#fff, stroke-width:1px
 ```
 
 <!--
-音频组在什么位置
+音频组在什么位置？
 音频会跟各个工种和模块打交道：材质、动画、特效、关卡……
 -->
 
