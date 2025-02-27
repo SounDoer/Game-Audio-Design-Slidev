@@ -20,13 +20,13 @@ layout: header-body
   #### 版本控制
   Version Control
   - [Perforce Helix Core](https://www.perforce.com/products/helix-core)
-    ![](/logo-perforce-helixcore.png){style="height: 35px"}
+    ![](/src/dev-tool-logo/logo-perforce-helixcore.png){style="height: 35px"}
   - [Git](https://git-scm.com/)
-    ![](/logo-git.png){style="height: 40px"}
+    ![](/src/dev-tool-logo/logo-git.png){style="height: 40px"}
   - [GitHub](https://github.com/)
-    ![](/logo-github-mark.png){style="height: 40px"}
+    ![](/src/dev-tool-logo/logo-github-mark.png){style="height: 40px"}
   - [Apache Subversion](https://subversion.apache.org/)
-    ![](/logo-svn.png){style="height: 32px"}
+    ![](/src/dev-tool-logo/logo-svn.png){style="height: 32px"}
 
   </div v-click>
 
@@ -35,15 +35,15 @@ layout: header-body
   #### 游戏引擎
   Game Engine
   - [Unreal Engine](https://www.unrealengine.com/)
-    ![](/logo-unrealengine.png){style="height: 60px"}
+    ![](/src/dev-tool-logo/logo-unrealengine.png){style="height: 60px"}
   - [Unity](https://unity.com/)
-    ![](/logo-unity.png){style="height: 30px"}
+    ![](/src/dev-tool-logo/logo-unity.png){style="height: 30px"}
   - [Godot](hhttps://godotengine.org/)
-    ![](/logo-godot.png){style="height: 45px"}
+    ![](/src/dev-tool-logo/logo-godot.png){style="height: 45px"}
   - [Cocos](https://www.cocos.com/)
-    ![](/logo-cocos.png){style="height: 45px"}
+    ![](/src/dev-tool-logo/logo-cocos.png){style="height: 45px"}
   - [Construct 3](https://www.construct.net/)
-    ![](/logo-construct3.png){style="height: 45px"}
+    ![](/src/dev-tool-logo/logo-construct3.png){style="height: 45px"}
 
   </div v-click>
 
@@ -52,11 +52,11 @@ layout: header-body
   #### 音频中间件
   Audio Middleware
   - [Wwise](https://www.audiokinetic.com/)
-    ![](/logo-wwise.png){style="height: 60px"}
+    ![](/src/dev-tool-logo/logo-wwise.png){style="height: 60px"}
   - [FMOD](https://www.fmod.com/)
-    ![](/logo-fmod.png){style="height: 30px"}
+    ![](/src/dev-tool-logo/logo-fmod.png){style="height: 30px"}
   - [CRIWARE](https://www.criware.com/)
-    ![](/logo-criware.png){style="height: 70px"}
+    ![](/src/dev-tool-logo/logo-criware.png){style="height: 70px"}
 
   </div v-click>
 
@@ -65,13 +65,13 @@ layout: header-body
   #### 数字音频工作站
   Digital Audio Workstation
   - [REAPER](https://www.reaper.fm/)
-    ![](/logo-reaper.png){style="height: 60px"}
+    ![](/src/dev-tool-logo/logo-reaper.png){style="height: 60px"}
   - [Pro Tools](https://www.avid.com/pro-tools)
-    ![](/logo-protools.png){style="height: 55px"}
+    ![](/src/dev-tool-logo/logo-protools.png){style="height: 55px"}
   - [Cubase](https://www.steinberg.net/cubase/)
-    ![](/logo-cubase.png){style="height: 32px"}
+    ![](/src/dev-tool-logo/logo-cubase.png){style="height: 32px"}
   - [Nuendo](https://www.steinberg.net/nuendo/)
-    ![](/logo-nuendo.png){style="height: 28px"}
+    ![](/src/dev-tool-logo/logo-nuendo.png){style="height: 28px"}
 
   </div v-click>
 
@@ -84,12 +84,26 @@ layout: header-body
 </div> -->
 
 ---
-layout: header-body-two-cols
+layout: header-body
 ---
 
-### AI Tool
+### Other Tool
 
-::left::
+<div>
+
+- Project Management
+  - [Feishu](https://www.feishu.cn/)![](/src/dev-tool-logo/logo-feishu.png){style="height: 40px"}
+  - [TAPD](https://hook.tapd.cn/)
+  - [Jira](https://www.atlassian.com/software/jira)
+
+</div>
+
+- Code Editor & IDE
+  - [Visual Studio](https://visualstudio.microsoft.com/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
+
+
+<!-- ::left::
 
 - Natural Language Processing
 - Computer Vision
@@ -107,7 +121,7 @@ layout: header-body-two-cols
 
 ::right::
 
-<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 75%; height: auto;">
+<img src="/ai-tool-logo.png" alt="AI Tool Logo" style="width: 75%; height: auto;"> -->
 
 ---
 layout: statement
