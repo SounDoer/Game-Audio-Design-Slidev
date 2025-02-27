@@ -115,7 +115,7 @@ background: /bg-image-for-audio.png
 
   #### 管线与规范
   - DAW -> Middleware -> Engine
-  - 迭代式的开发模式
+  - 迭代式开发流程
   - 开发模块之间的分工协作
   - 数据结构与命名规范
   - 海量数据的管理

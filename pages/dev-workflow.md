@@ -64,25 +64,26 @@ style D fill:#173d03, stroke:#fff, stroke-width:1px
 -->
 
 ---
-layout: header-body
+layout: header-body-center-left
 ---
 
 ### 音频团队 Audio Team
 
 ::body::
 
-```mermaid {theme: 'neutral', scale: '0.8'}
+```mermaid {theme: 'base', scale: '1', themeVariables:{fontSize: '16px', primaryTextColor: '#fff',primaryColor: '#828181', 'lineColor': '#fff'}}
 graph LR
   root(Audio Team) --- A(Sound Designer)
   root --- B(Music Designer)
   root --- C(Voice Designer)
   root --- D(Technical Audio)
+style root fill:#173d03, stroke:#fff, stroke-width:1px
 ```
 
 <!--
 - 音频组内部的分工形式
-- 技术音频是什么
-- 怎么成为 Lead Audio Designer
+- 技术音频是什么？
+- 怎么成为 Lead Audio Designer？
 -->
 
 ---
@@ -106,6 +107,7 @@ layout: header-body-center
 ---
 
 ### 设计流程 Design Workflow
+迭代式开发流程
 
 ::body::
 
