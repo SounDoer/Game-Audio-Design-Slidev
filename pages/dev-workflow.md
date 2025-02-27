@@ -6,16 +6,30 @@ layout: section
 **Dev Workflow**
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 开发阶段 Dev Stage
 
 ::body::
 
-```mermaid {theme: 'neutral', scale: '0.6'}
-gantt
+```mermaid {theme: 'base', scale: '0.5', themeVariables:{fontSize: '24px', primaryTextColor: '#fff',primaryColor: '#a6a6a6'}}
+timeline
+  section CONCEPT 原型
+    Brainstorm : An iterative development spiral, to take risks, try and fail, test and refine vision.
+    Approval : Formal evaluation and greenlighting of the concept to proceed to preproduction.
+  section PREPRODUCTION 预研
+    First Playable : The earliest functional prototype demonstrating core gameplay mechanics.
+    Vertical Slice : A polished segment of the game showcasing key features, visual fidelity and mechanics.
+  section PRODUCTION 开发
+    Alpha Test : An internal test phase focusing on core functionality and major features.
+    Closed Beta Test : A limited external test to gather feedback and identify issues before wider release.
+    Open Beta Test : A public test phase to assess scalability, stability, and final gameplay refinements.
+  section OPERATION 上线
+    Release : The official launch of the game to the public.
+    Long-term operation : Ongoing content updates, bug fixes, and community engagement to sustain the game.
 ```
+
 <!--
 https://www.ubisoft.com/en-us/company/how-we-make-games/creative-process
 -->
