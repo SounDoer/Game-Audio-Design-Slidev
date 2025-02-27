@@ -34,9 +34,9 @@ background: /game-poster.png
 
 <div class="grid grid-cols-2 gap-4">
 
-  <div>
+  <div v-click>
 
-  #### By Gameplay Genres
+  #### 类型
   - First-Person Shooter / Third-Person Shooter
   - Action / Adventure / Role-Playing
   - Platformer / Metroidvania
@@ -47,21 +47,19 @@ background: /game-poster.png
   - Sports
   - ……
 
-  </div>
+  </div v-click>
 
-  <div>
+  <div v-click>
 
-  #### By Platforms
+  #### 平台
   - Console
   - PC
   - Mobile
   - ……
   
-  </div>
+  </div v-click>
 
 </div>
-
-<!-- ![](/game-poster.png) -->
 
 <!--
 - Interactive Media：同样是视听语言的媒介，与其他传统媒体之间的区别？
@@ -69,19 +67,72 @@ background: /game-poster.png
 -->
 
 ---
-layout: header-body
+layout: header-body-bg
+background: /bg-image-for-audio.png
 ---
 
 ### <span class="text-green-500">音频</span>
-音效 Sound Effect · 音乐 Music · 语音 Voice
 
 ::body::
+
+<div class="grid grid-cols-3 gap-4">
+
+  <div v-click>
+
+  #### 声音内容
+  - 音效 Sound Effect
+    - 环境
+    - 角色
+    - 武器
+    - ……
+  - 音乐 Music
+    - 主观音乐
+    - 客观音乐
+    - ……
+  - 语音 Voice
+    - 角色
+    - 怪物
+    - ……
+
+  </div v-click>
+
+  <div v-click>
+
+  #### 实现方式
+  - 基于对象的资源制作形式
+  - 音频空间化的听者与声源
+  - 地图关卡中的物件对象
+  - 功能逻辑中的事件节点
+  - 动画序列与状态机
+  - 材质与物理
+  - 互动音乐
+  - 语音系统
+  - ……
+
+  </div v-click>
+
+  <div v-click>
+
+  #### 管线与规范
+  - DAW -> Middleware -> Engine
+  - 迭代式的开发模式
+  - 开发模块之间的分工协作
+  - 数据结构与命名规范
+  - 海量数据的管理
+  - 语音开发管线
+  - 不同平台的响度管理
+  - ……
+
+  </div v-click>
+
+</div>
 
 <!--
 -->
 
 ---
-layout: header-body
+layout: header-body-bg
+background: /bg-image-for-design.png
 ---
 
 ### <span class="text-blue-500">设计</span>
@@ -89,8 +140,38 @@ layout: header-body
 
 ::body::
 
-- 美学性：与**艺术风格**和**内容表现**相匹配
-- 功能性：与**游戏类型**和**玩法机制**相结合
+<div class="grid grid-cols-2 gap-4">
+
+  <div v-click>
+
+  #### 美学性
+  与**艺术风格**和**内容表现**相匹配
+  - 写实主义 Realism
+  - 未来主义 Futurism
+  - 幻想 Fantasy
+  - 哥特 Gothic
+  - 赛博朋克 Cyberpunk
+  - 像素风 Pixel Art
+  - 低多边形 Low Poly
+  - 赛璐珞 Cel-Shading
+  - ……
+
+  </div v-click>
+
+  <div v-click>
+
+  #### 功能性
+  与**游戏类型**和**玩法机制**相结合
+  - Action：即时反馈与打击感
+  - RPG / Adventure：角色塑造与叙事推进
+  - Sports / Racing：真实的物理反馈
+  - PvP：声音信息传递
+  - Horror / Survival：心理暗示
+  - ……
+
+  </div v-click>
+
+</div>
 
 <!--
 -->
