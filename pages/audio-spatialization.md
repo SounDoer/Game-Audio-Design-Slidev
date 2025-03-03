@@ -131,7 +131,7 @@ layout: header-body
 
 ### 现成的解决方案
 
-[Wwise Spatial Audio](https://www.audiokinetic.com/zh/wwise/wwise-spatial-audio/)
+[Wwise Spatial Audio](https://www.audiokinetic.com/en/wwise/wwise-spatial-audio/)
 
 ::body::
 
