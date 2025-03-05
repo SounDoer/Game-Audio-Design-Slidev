@@ -9,6 +9,9 @@ layout: section
 - 为什么要单独一章拿出来讲:
   - 因为我认为要把工程也当作作品一样来看待
   - 实际开发过程中会遇到很多的坑
+- Refer
+  - https://universalcategorysystem.com/
+  - https://canuzer.com/naming-convention-best-practices/
 -->
 
 ---
