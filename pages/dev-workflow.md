@@ -54,7 +54,7 @@ graph TD
   root --- B(Project B)
   root --- C(Project C)
   root ---- D(Audio Team)
-  root ---- E(Others)
+  root ---- E(...)
 style D fill:#173d03, stroke:#fff, stroke-width:1px
 ```
 
@@ -64,19 +64,25 @@ style D fill:#173d03, stroke:#fff, stroke-width:1px
 -->
 
 ---
-layout: header-body-center-left
+layout: header-body
 ---
 
 ### 音频团队 Audio Team
+如何具体分工？
 
 ::body::
 
 ```mermaid {theme: 'base', scale: '1', themeVariables:{fontSize: '16px', primaryTextColor: '#fff',primaryColor: '#828181', 'lineColor': '#fff'}}
-graph LR
-  root(Audio Team) --- A(Sound Designer)
-  root --- B(Music Designer)
-  root --- C(Voice Designer)
-  root --- D(Technical Audio)
+graph TD
+  root(Audio Team) --- A(Audio Designer)
+  A --- A1(Sound Designer)
+  A1 --- A11(Ambience)
+  A1 --- A12(Character)
+  A1 --- A14(UI)
+  A1 --- A15(...)
+  A --- A2(Music Designer)
+  A --- A3(Voice Designer)
+  root --- D(Technical Audio Designer)
 style root fill:#173d03, stroke:#fff, stroke-width:1px
 ```
 
