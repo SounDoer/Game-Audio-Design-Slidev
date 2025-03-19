@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main  # 监视 main 分支的推送事件
 
 jobs:
   build:
@@ -11,37 +11,26 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 'lts/*'
 
-      - name: Setup @antfu/ni
-        run: npm i -g @antfu/ni
-
       - name: Install dependencies
-        run: nci
+        run: npm ci
 
       - name: Build project
-        run: nr build --base /${{github.event.repository.name}}/
+        run: npm run build
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+      - name: Check build output
+        run: |
+          if [ ! -d "./dist" ]; then
+            echo "Build directory does not exist"
+            exit 1
+          fi
 
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
