@@ -22,7 +22,7 @@ jobs:
         run: npm ci
 
       - name: Build project
-        run: npm run build
+        run: npm run build -- --base=/Game-Audio-Design-Slidev/  # 设置 base 选项
 
       - name: Check build output
         run: |
