@@ -1,6 +1,8 @@
 ---
 theme: default
 title: Game Audio Design
+favicon: /GAD_Logo.ico
+author: xichen@soundoer.com
 drawings:
   persist: false
 transition: slide-left
