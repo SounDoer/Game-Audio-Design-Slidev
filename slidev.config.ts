@@ -5,7 +5,7 @@ import { defineConfig } from 'slidev'
 export default defineConfig({
   themeConfig: {
     hide: {
-      navigation: process.env.NODE_ENV === 'production' ? true : false
+      navigation: process.env.BUILD === 'true' ? true : false
     }
   }
 })
