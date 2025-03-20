@@ -10,6 +10,8 @@ contextMenu: dev
 presenter: dev
 # 启用幻灯片录制，可以是一个 boolean 值，'dev' 或者 'build'
 record: dev
+# 防止休眠，可以是一个 boolean 值，'dev' 或者 'build'
+wakeLock: build
 # Markdown Components 是 Slidev 提供的一项功能，允许你在 Markdown 文件中直接使用 Vue 组件。
 mdc: true
 
