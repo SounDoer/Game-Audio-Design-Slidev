@@ -50,6 +50,10 @@ src: ./pages/how-to-listen-sound.md
 ---
 
 ---
+src: ./pages/campfire-sound.md
+---
+
+---
 src: ./pages/audio-spatialization.md
 ---
 
