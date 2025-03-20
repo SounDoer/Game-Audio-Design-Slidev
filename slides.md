@@ -3,10 +3,23 @@ theme: default
 title: Game Audio Design
 favicon: /GAD_Logo.ico
 author: xichen@soundoer.com
-drawings:
-  persist: false
-transition: slide-left
+
+# 启用 Slidev 的右键菜单，可以是一个 boolean 值，'dev' 或者 'build'
+contextMenu: 'dev'
+# 启用演讲者模式，可以是一个 boolean 值、'dev' 或 'build'
+presenter: 'dev'
+# 启用幻灯片录制，可以是一个 boolean 值，'dev' 或者 'build'
+record: dev
+# Markdown Components 是 Slidev 提供的一项功能，允许你在 Markdown 文件中直接使用 Vue 组件。
 mdc: true
+
+# 绘制选项，了解更多：https://cn.sli.dev/features/drawing
+drawings:
+  enabled: true
+  persist: false
+  presenterOnly: false
+  syncAll: true
+transition: slide-left
 fonts:
   sans: Noto Sans
   serif: Robot Slab
