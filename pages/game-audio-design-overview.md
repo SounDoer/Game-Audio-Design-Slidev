@@ -23,6 +23,7 @@ layout: default
 <!--概述：游戏·音频·设计-->
 
 ---
+routeAlias: gad-overview-game
 layout: header-body-bg
 background: /game-poster.png
 ---
@@ -67,6 +68,7 @@ background: /game-poster.png
 -->
 
 ---
+routeAlias: gad-overview-audio
 layout: header-body-bg
 background: /bg-image-for-audio.png
 ---
@@ -131,6 +133,7 @@ background: /bg-image-for-audio.png
 -->
 
 ---
+routeAlias: gad-overview-design
 layout: header-body-bg
 background: /bg-image-for-design.png
 ---
