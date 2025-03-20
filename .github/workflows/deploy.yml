@@ -22,8 +22,6 @@ jobs:
         run: npm ci
 
       - name: Build project
-        env:
-          BUILD: "true"  # 设置 BUILD 变量
         run: npm run build -- --base=/Game-Audio-Design-Slidev/  # 设置 base 选项
 
       - name: Check build output
