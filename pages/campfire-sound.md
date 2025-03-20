@@ -13,11 +13,27 @@ layout: header-body-two-cols
 
 ::left::
 
-![](/ue-campfire.png){style="height: 400px"}
+- 篝火燃烧时持续稳定的声音 Burn
+- 零星火苗的声音 Sizzle
+- 木头碎裂的声音 Crack
 
 ::right::
 
+![](/ue-campfire.png){style="height: 400px"}
 
 <!--
 - 为什么要拆解？
 -->
+
+---
+layout: header-body-center
+---
+
+### 声音资源的规格
+循环和随机
+
+::body::
+
+![](/campfire-burn-sizzle-crack.png){style="width: 100%"}
+
+<!--  -->
