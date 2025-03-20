@@ -54,7 +54,7 @@ class: text-center
 <span class="font-bold text-3xl tracking-wide">Game Audio Design</span>
 <br>
 <br>
-<span class="text-sm opacity-50">2025 SHU Shanghai Film Academy</span>
+<!-- <span class="text-sm opacity-50">2025 SHU Shanghai Film Academy</span> -->
 
 <!--
 The last comment block of each slide will be treated as slide notes.
