@@ -54,6 +54,10 @@ src: ./pages/campfire-sound.md
 ---
 
 ---
+src: ./pages/wwise-basic.md
+---
+
+---
 src: ./pages/audio-spatialization.md
 ---
 

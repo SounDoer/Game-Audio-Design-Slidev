@@ -37,3 +37,12 @@ layout: header-body-center
 ![](/campfire-burn-sizzle-crack.png){style="width: 100%"}
 
 <!--  -->
+
+---
+layout: statement
+---
+
+#### 循环和随机
+Loop and Randomize
+
+<!--  -->
