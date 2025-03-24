@@ -12,14 +12,9 @@ layout: section
 -->
 
 ---
-layout: header-body-center
+layout: image
+image: aigc-forest-cabin.png
 ---
-
-### 如何设计这个场景的环境声
-
-::body::
-
-![](/aigc-forest-cabin.png){style="height: 420px"}
 
 <!--  -->
 
