@@ -25,7 +25,7 @@ layout: default
 ---
 routeAlias: gad-overview-game
 layout: header-body-bg
-background: /game-poster.png
+background: game-poster.png
 ---
 
 ### <span class="text-red-500">游戏</span>
@@ -70,7 +70,7 @@ background: /game-poster.png
 ---
 routeAlias: gad-overview-audio
 layout: header-body-bg
-background: /bg-image-for-audio.png
+background: bg-image-for-audio.png
 ---
 
 ### <span class="text-green-500">音频</span>
@@ -135,7 +135,7 @@ background: /bg-image-for-audio.png
 ---
 routeAlias: gad-overview-design
 layout: header-body-bg
-background: /bg-image-for-design.png
+background: bg-image-for-design.png
 ---
 
 ### <span class="text-blue-500">设计</span>
