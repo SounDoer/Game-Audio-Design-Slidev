@@ -134,6 +134,13 @@ layout: header-body
 
 ::body::
 
+<iframe 
+  src="https://www.audiokinetic.com/en/wwise/wwise-spatial-audio/" 
+  width="100%" 
+  height="420px" 
+  style="border: none;">
+</iframe>
+
 <!--  -->
 
 ---
@@ -170,5 +177,5 @@ layout: header-body-center
 layout: statement
 ---
 
-#### 。
-basic struct, singal flow.
+#### 音频空间化是还原和创造数字声学空间的底层框架。
+Audio spatialization is the fundamental framework for recreating and designing digital acoustic spaces.
