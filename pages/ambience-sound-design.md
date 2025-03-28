@@ -20,7 +20,7 @@ image: aigc-forest-cabin.png
 
 ---
 layout: header-body-bg
-background: /aigc-forest-cabin.png
+background: aigc-forest-cabin.png
 ---
 
 ### 这个场景包含了哪些声音元素
