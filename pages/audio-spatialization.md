@@ -83,7 +83,6 @@ layout: header-body-center
 
 <!--
 - Diffraction & Transmission
-- Obstruction & Occlusion
 -->
 
 ---
@@ -138,12 +137,32 @@ layout: header-body
 <!--  -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### Wwise Spatial Audio Demo
 
 ::body::
+
+<video controls width="85%">
+  <source src="/wwise_spatial_audio_simple_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!--  -->
+
+---
+layout: header-body-center
+---
+
+### Wwise Spatial Audio Demo
+
+::body::
+
+<video controls width="85%">
+  <source src="/wwise_spatial_audio_profile_3p.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <!--  -->
 

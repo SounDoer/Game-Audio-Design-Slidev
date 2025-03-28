@@ -77,11 +77,7 @@ layout: header-body
 
 </div>
 
-<!-- <div>
-  <img v-click src="/dev-tool-logo-01.png" alt="Dev Tool Logo 01" style="width: 800px; height: auto;" />
-  <br>
-  <img v-click src="/dev-tool-logo-02.png" alt="Dev Tool Logo 02" style="width: 800px; height: auto;" />
-</div> -->
+<!--  -->
 
 ---
 layout: header-body
