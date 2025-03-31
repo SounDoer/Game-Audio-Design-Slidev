@@ -134,12 +134,14 @@ layout: header-body
 
 ::body::
 
-<iframe 
+![](/what-is-wwise-spatial-audio.png)
+
+<!-- <iframe 
   src="https://www.audiokinetic.com/en/wwise/wwise-spatial-audio/" 
   width="100%" 
   height="420px" 
   style="border: none;">
-</iframe>
+</iframe> -->
 
 <!--  -->
 
