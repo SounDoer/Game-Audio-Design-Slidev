@@ -54,7 +54,7 @@ src: ./pages/campfire-sound.md
 ---
 
 ---
-src: ./pages/wwise-basic.md
+src: ./pages/soundbank-generation.md
 ---
 
 ---

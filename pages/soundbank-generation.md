@@ -2,8 +2,8 @@
 layout: section
 ---
 
-## Wwise 基础
-**Wwise Basic**
+## 生成声音资产
+**SoundBank Generation**
 
 ---
 layout: header-body
