@@ -49,33 +49,37 @@ background: aigc-forest-cabin.png
 <div>
 
 - 世界观
-    - 时代背景
-    - 地理区域
-    - 类型与风格
-    - …
+  - 时代背景
+  - 地理区域
+  - 类型与风格
+  - …
 
 </div>
 
 <div>
 
 - 声音种类
-    - 风
-    - 水
-    - 植被
-    - 生物
-    - ……
+  - 风
+  - 水
+  - 植被
+  - 生物
+  - ……
 
 </div>
 
 <div>
 
-- 声源类型
-    - 2D 声源
-    - 3D 声源
-      - 点声源
-      - 线声源
-      - 体声源
-      - 随机声源
+- 资产规格
+  - 可循环的 / 单次触发的
+  - 声道数目
+    - Quad
+    - Stereo
+    - Mono
+  - 2D / 3D 声源
+    - 点声源
+    - 线声源
+    - 体声源
+    - 随机声源
     - ……
 
 </div>
@@ -108,16 +112,18 @@ background: aigc-forest-cabin.png
 
 | Name | Quantity | Duration | Asset Type | Emitter Type |
 |-|-:|-:|-:|-:|
-| AMB_Forest_2D_Wind_Gentle | 1 | 30s | Loop | 2D |
-| AMB_Forest_2D_Insect_Group_Night | 1 | 20s | Loop | 2D |
-| AMB_Forest_3D_Tree_Rustle | 9 | | One-Shot | 3D_Scatter |
-| AMB_Forest_3D_Tree_Crack | 9 | | One-Shot | 3D_Scatter |
-| AMB_Forest_3D_Water_Stream | 1 | 15s | Loop | 3D_Spot |
-| AMB_Forest_3D_Insect_Cricket | 7 | | One-Shot | 3D_Scatter |
-| AMB_Forest_3D_Insect_Grasshopper | 7 | | One-Shot | 3D_Scatter |
-| AMB_Forest_3D_Bird_Owl_Hoot | 7 | | One-Shot | 3D_Scatter |
-| AMB_Forest_3D_Wolf_Howl | 5 | | One-Shot | 3D_Scatter |
+| AMB_Forest_2D_Wind_Gentle | 1 | 30s | Quad / Loop | 2D |
+| AMB_Forest_2D_Insect_Group_Night | 1 | 30s | Quad / Loop | 2D |
+| AMB_Forest_3D_Tree_Rustle | 9 | | Stereo / One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Tree_Crack | 9 | | Mono / One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Water_Stream | 1 | 15s | Stereo / Loop | 3D_Spot |
+| AMB_Forest_3D_Insect_Cricket | 7 | | Mono / One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Insect_Grasshopper | 5 | | Mono / One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Bird_Owl_Hoot | 5 | | Stereo / One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Wolf_Howl | 5 | | Stereo / One-Shot | 3D_Scatter |
 
 </div>
 
-<!--  -->
+<!--
+- 后续补充有关 Quad、Stere、Mono
+-->
