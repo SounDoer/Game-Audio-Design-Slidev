@@ -40,12 +40,22 @@ layout: header-body-bg
 background: aigc-forest-cabin.png
 ---
 
-### 如何规划
+### 需要考虑哪些因素
 
 ::body::
 
-<div class="grid grid-cols-3 gap-4">
-    
+<div class="grid grid-cols-4 gap-4" v-clicks>
+
+<div>
+
+- 世界观
+    - 时代背景
+    - 地理区域
+    - 类型与风格
+    - …
+
+</div>
+
 <div>
 
 - 声音种类
@@ -62,10 +72,10 @@ background: aigc-forest-cabin.png
 - 声源类型
     - 2D 声源
     - 3D 声源
-    - 点声源
-    - 线声源
-    - 体声源
-    - 随机声源
+      - 点声源
+      - 线声源
+      - 体声源
+      - 随机声源
     - ……
 
 </div>
@@ -90,8 +100,24 @@ layout: header-body-bg
 background: aigc-forest-cabin.png
 ---
 
-### 制作声音资产
+### 规划声音资产
 
 ::body::
+
+<div class="table-auto border-collapse border border-gray-400 text-sm">
+
+| Name | Quantity | Duration | Asset Type | Emitter Type |
+|-|-:|-:|-:|-:|
+| AMB_Forest_2D_Wind_Gentle | 1 | 30s | Loop | 2D |
+| AMB_Forest_2D_Insect_Group_Night | 1 | 20s | Loop | 2D |
+| AMB_Forest_3D_Tree_Rustle | 9 | | One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Tree_Crack | 9 | | One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Water_Stream | 1 | 15s | Loop | 3D_Spot |
+| AMB_Forest_3D_Insect_Cricket | 7 | | One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Insect_Grasshopper | 7 | | One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Bird_Owl_Hoot | 7 | | One-Shot | 3D_Scatter |
+| AMB_Forest_3D_Wolf_Howl | 5 | | One-Shot | 3D_Scatter |
+
+</div>
 
 <!--  -->
