@@ -12,6 +12,7 @@ layout: section
 - Refer
   - https://universalcategorysystem.com/
   - https://canuzer.com/naming-convention-best-practices/
+  - USC
 -->
 
 ---
