@@ -119,7 +119,7 @@ Switch Container in Wwise
 - Player_Foley
   - Player_Foley_Cloth
   - Player_Foley_FS
-    - **Player_Foley_FS_Run** ------------------------------------ Switch on Char_Shoe
+    - **Player_Foley_FS_Run** ------------------------------------ Switch on Shoe Type
       - Player_Foley_FS_Run_Highheel ------------------ Switch on Material
         - FOL_FS_Run_Highheel_Dirt_01
         - FOL_FS_Run_Highheel_Dirt_02
