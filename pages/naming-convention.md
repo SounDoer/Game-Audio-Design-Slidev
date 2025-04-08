@@ -10,9 +10,10 @@ layout: section
   - 因为我认为要把工程也当作作品一样来看待
   - 实际开发过程中会遇到很多的坑
 - Refer
+  - https://en.wikipedia.org/wiki/Naming_convention_(programming)
+  - https://github.com/Allar/ue5-style-guide
   - https://universalcategorysystem.com/
   - https://canuzer.com/naming-convention-best-practices/
-  - USC
 -->
 
 ---
@@ -36,38 +37,70 @@ layout: header-body
 
 </v-clicks>
 
-<!--  -->
-
----
-layout: header-body
----
-
-### 理想情况是什么样的
-
-::body::
-
-<!--  -->
-
----
-layout: header-body
----
-
-### 实际情况是什么样的
-
-::body::
-
 <!--
-- 以一个 cin seq 落石为例
+- Efficient Navigation & Search
+- Logical Organization
+- Simplified Batch Processing
+- Automation Potential
+- Satisfies Perfectionism
 -->
 
 ---
 layout: header-body
 ---
 
-### 
+### 命名规范的通用原则
 
 ::body::
 
-<!--
-https://en.wikipedia.org/wiki/Naming_convention_(programming)
--->
+<v-clicks>
+
+- 命名风格
+  - PascalCase
+  - camelCase
+  - snake_case
+  - Upper_Snake_Case --- OBJ_Campfire_Burn_Loop
+- 命名需要包含的语义清晰且可扩展的字段
+  - OBJ_Campfire_Burn
+    - OBJ_Campfire_Burn_Loop
+    - OBJ_Campfire_Sizzle_01
+    - OBJ_Campfire_Crack_01
+- 使用约定的缩写和前后缀
+- 避免使用空格、特殊符号、拼音和中文等
+
+</v-clicks>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### Example
+
+::body::
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+![](/src/naming-convention/wwise-amb-forest-struct.png){style="width: 90%"}
+
+</div>
+
+<div>
+
+![](/src/naming-convention/wwise-player-foley-struct.png){style="width: 85%"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: statement
+---
+
+#### 无论有多少人参与项目，其结构、资源与代码都应如出自一人之手。
+All structure, assets, and code in any project should look like a single person created it, no matter how many people contributed.
