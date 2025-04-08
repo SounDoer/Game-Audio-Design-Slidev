@@ -33,7 +33,7 @@ layout: header-body
 
 ::body::
 
-- 角色：性格、体型、性格……
+- 角色：性别、体型、性格……
 - 部位：**脚步**、手部、衣物……
 - 配饰：武器、背包、装饰……
 - **动作类型**：走、跑、起跳、落地……
@@ -111,9 +111,23 @@ layout: header-body
 layout: header-body
 ---
 
-### Wwise Data Struct
+### Data Struct
+Switch Container in Wwise
 
 ::body::
 
+- Player_Foley
+  - Player_Foley_Cloth
+  - Player_Foley_FS
+    - **Player_Foley_FS_Run** ------------------------------------ Switch on Char_Shoe
+      - Player_Foley_FS_Run_Highheel ------------------ Switch on Material
+        - FOL_FS_Run_Highheel_Dirt_01
+        - FOL_FS_Run_Highheel_Dirt_02
+        - FOL_FS_Run_Highheel_Dirt_03
+        - FOL_FS_Run_Highheel_Dirt_04
+        - FOL_FS_Run_Highheel_Dirt_05
+      - Player_Foley_FS_Run_Sneaker
+      - ...
+    - ...
 
 <!--  -->
