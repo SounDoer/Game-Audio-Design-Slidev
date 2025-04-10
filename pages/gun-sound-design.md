@@ -103,3 +103,75 @@ layout: header-body
 - https://tacticalgear.com/experts/rifle-basics-indentifying-parts-and-functions
 - https://tacticalgear.com/experts/shotgun-basics-identifying-parts-and-functions
 -->
+
+---
+layout: header-body
+---
+
+### 与枪械有关的行为和事件
+
+::body::
+
+<div class="flex grid-cols-3 gap-12">
+
+<div>
+
+- 射击 Firing
+  - Single Shot
+  - Burst Shot
+  - Full Auto
+  - Dry Fire
+
+</div>
+
+<div>
+
+- 战术动作 Tactical Handling
+  - Fire Selector Switch
+  - Disengage Safety
+  - Magazine Insert / Remove / Drop
+  - Bolt Action
+  - Reload
+  - Suppressor Attach / Detach
+  - Weapon Swap
+
+</div>
+
+<div>
+
+- 子弹 Bullet
+  - Shell Eject / Drop
+  - Whizz-By
+  - Impact
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 开枪射击
+
+::body::
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+**玩家听到自己的射击声音：枪声在不同状态下的层次细节**
+
+</div>
+
+<div>
+
+**玩家听到别人的射击声音：枪声在不同距离上的衰减变化**
+
+</div>
+
+</div>
+
+<!--  -->
