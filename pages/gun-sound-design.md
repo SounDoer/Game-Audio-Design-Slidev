@@ -251,6 +251,32 @@ layout: header-body
 layout: header-body
 ---
 
+### 玩家听到自己的射击声音
+枪声在不同状态下的层次细节
+
+::body::
+
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 玩家听到别人的射击声音
+枪声在不同距离上的衰减变化
+
+::body::
+
+
+<!--
+- 这里会有关于 blender container 的运用，需要在之前的课程中先安排使用案例
+-->
+
+---
+layout: header-body
+---
+
 ### 打击感
 影响枪械手感和声音体验的其他因素
 
