@@ -171,10 +171,49 @@ layout: header-body
 layout: header-body
 ---
 
-### 枪声与环境
+### 环境
 
 ::body::
 
+<div class="grid grid-cols-3 gap-4">
+
+<div>
+
+![](/src/gun-sound-design/SYNCED_GunRec_Location_Hill.jpg){style="width: 270px"}
+
+![](/src/gun-sound-design/SYNCED_GunRec_Location_Bunker.jpg){style="width: 270px"}
+
+</div>
+
+<div>
+
+![](/src/gun-sound-design/SYNCED_GunRec_Location_Plain.jpg){style="width: 270px"}
+
+![](/src/gun-sound-design/SYNCED_GunRec_Location_Hall.jpg){style="width: 270px"}
+
+</div>
+
+<div>
+
+![](/src/gun-sound-design/SYNCED_GunRec_Location_Valley.jpg){style="width: 270px"}
+
+![](/src/gun-sound-design/SYNCED_GunRec_Location_Warehouse.jpg){style="width: 270px"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 枪械声音录制
+
+::body::
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=93662654&bvid=BV1XE411s7QN&cid=159918305&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 450px;"></iframe>
 
 <!--  -->
 
@@ -212,19 +251,8 @@ layout: header-body
 layout: header-body
 ---
 
-### 枪械声音录制
-
-::body::
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=93662654&bvid=BV1XE411s7QN&cid=159918305&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 450px;"></iframe>
-
-<!--  -->
-
----
-layout: header-body
----
-
-### 影响枪械声音细节的其他因素
+### 打击感
+影响枪械手感和声音体验的其他因素
 
 ::body::
 
