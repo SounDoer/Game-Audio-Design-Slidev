@@ -9,13 +9,25 @@ layout: section
 layout: header-body
 ---
 
-### 枪械声音录制
+### 真实环境中的枪声
 
 ::body::
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=93662654&bvid=BV1XE411s7QN&cid=159918305&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 450px;"></iframe>
 
 <!--  -->
+
+---
+layout: header-body
+---
+
+### 现代游戏中的枪声
+
+::body::
+
+
+<!--
+- [Call Of Duty Modern Warfare II 2022 - All Weapons](https://www.youtube.com/watch?v=dYPUfaaq8kI)
+-->
 
 ---
 layout: header-body
@@ -74,22 +86,39 @@ layout: header-body
 
 <div>
 
-![](/src/gun-sound-design/the-parts-of-a-semiautoamtic-handgun-and-their-function.webp){style="height: 180px"}
+<!-- ![](/src/gun-sound-design/the-parts-of-a-semiautoamtic-handgun-and-their-function.webp){style="height: 180px"}
 
 ![](/src/gun-sound-design/the-stationary-and-moving-parts-of-a-revolver.webp){style="height: 180px"}
 
 <a href="https://tacticalgear.com/experts/handgun-basics-indentifying-parts-and-functions" target="_blank" style="font-size: 9px;">
   https://tacticalgear.com/experts/handgun-basics-indentifying-parts-and-functions
-</a>
+</a> -->
+
+- 射击方式 Firing
+  - Single Shot
+  - Burst Shot
+  - Full Auto
+
+- 战术动作 Tactical Handling
+  - Disengage Safety
+  - Fire Selector Switch
+  - Suppressor Attach / Detach
+  - Magazine Insert / Remove / Drop
+  - Bolt Action
+  - Reload
+  - ...
 
 </div>
 
 <div>
 
-![](/src/gun-sound-design/m16-rifle-parts.webp){style="height: 180px"}
+![](/src/gun-sound-design/the-parts-of-a-semiautoamtic-handgun-and-their-function.webp){style="width: 300px"}
 
-![](/src/gun-sound-design/bolt-action-rifle-parts.webp){style="height: 180px"}
+![](/src/gun-sound-design/bolt-action-rifle-parts.webp){style="width: 300px"}
 
+<a href="https://tacticalgear.com/experts/handgun-basics-indentifying-parts-and-functions" target="_blank" style="font-size: 9px;">
+  https://tacticalgear.com/experts/handgun-basics-indentifying-parts-and-functions
+</a>
 <a href="https://tacticalgear.com/experts/rifle-basics-indentifying-parts-and-functions" target="_blank" style="font-size: 9px;">
   https://tacticalgear.com/experts/rifle-basics-indentifying-parts-and-functions
 </a>
@@ -108,41 +137,70 @@ layout: header-body
 layout: header-body
 ---
 
-### 与枪械有关的行为和事件
+### 子弹
 
 ::body::
 
-<div class="flex grid-cols-3 gap-12">
+<div class="grid grid-cols-2 gap-4">
 
 <div>
 
-- 射击 Firing
-  - Single Shot
-  - Burst Shot
-  - Full Auto
-  - Dry Fire
+- Shell Eject & Drop
+- Bullet Whizz-By
+- Bullet Impact
 
 </div>
 
 <div>
 
-- 战术动作 Tactical Handling
-  - Fire Selector Switch
-  - Disengage Safety
-  - Magazine Insert / Remove / Drop
-  - Bolt Action
-  - Reload
-  - Suppressor Attach / Detach
-  - Weapon Swap
+![](/src/gun-sound-design/Rifle_cartridge_comparison.jpg){style="width: 360px"}
+
+<a href="https://en.wikipedia.org/wiki/Table_of_handgun_and_rifle_cartridges" target="_blank" style="font-size: 9px;">
+  hhttps://en.wikipedia.org/wiki/Table_of_handgun_and_rifle_cartridges
+</a>
+
+</div>
+
+</div>
+
+<!--
+- [Table of handgun and rifle cartridges](https://en.wikipedia.org/wiki/Table_of_handgun_and_rifle_cartridges)
+-->
+
+---
+layout: header-body
+---
+
+### 枪声与环境
+
+::body::
+
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 游戏中的射击体验
+
+::body::
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+**玩家听到自己的射击声音：枪声在不同状态下的层次细节**
+
+![](/gun-sound-1p.png){style="height: 360px"}
 
 </div>
 
 <div>
 
-- 子弹 Bullet
-  - Shell Eject / Drop
-  - Whizz-By
-  - Impact
+**玩家听到别人的射击声音：枪声在不同距离上的衰减变化**
+
+![](/gun-sound-3p.png){style="height: 360px"}
 
 </div>
 
@@ -154,24 +212,23 @@ layout: header-body
 layout: header-body
 ---
 
-### 开枪射击
+### 枪械声音录制
 
 ::body::
 
-<div class="grid grid-cols-2 gap-4">
-
-<div>
-
-**玩家听到自己的射击声音：枪声在不同状态下的层次细节**
-
-</div>
-
-<div>
-
-**玩家听到别人的射击声音：枪声在不同距离上的衰减变化**
-
-</div>
-
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=93662654&bvid=BV1XE411s7QN&cid=159918305&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 450px;"></iframe>
 
 <!--  -->
+
+---
+layout: header-body
+---
+
+### 影响枪械声音细节的其他因素
+
+::body::
+
+
+<!--
+- [Why The Weapons In Modern Warfare Sound So Incredible](https://www.youtube.com/watch?v=OmMlaasm8wk)
+-->
