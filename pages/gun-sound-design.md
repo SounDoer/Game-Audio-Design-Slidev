@@ -13,6 +13,10 @@ layout: header-body
 
 ::body::
 
+<video controls width="85%">
+  <source src="/Thailand_ChiangMai_ShootingRange.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <!--  -->
 
@@ -24,6 +28,37 @@ layout: header-body
 
 ::body::
 
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+<video controls width="85%">
+  <source src="/CODMW2022_Pistol.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+<video controls width="85%">
+  <source src="/CODMW2022_LightMachineGun.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</div>
+
+<div>
+
+<video controls width="85%">
+  <source src="/CODMW2022_AssaultRifle.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+<video controls width="85%">
+  <source src="/CODMW2022_SniperRifle.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</div>
+
+</div>
 
 <!--
 - [Call Of Duty Modern Warfare II 2022 - All Weapons](https://www.youtube.com/watch?v=dYPUfaaq8kI)
@@ -245,10 +280,12 @@ layout: header-body
 
 </div>
 
-<!--  -->
+<!--
+- 这里会有关于 blender container 的运用，需要在之前的课程中先安排使用案例
+-->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 玩家听到自己的射击声音
@@ -256,11 +293,12 @@ layout: header-body
 
 ::body::
 
+![](/gun-sound-1p-layer.png){style="height: 360px"}
 
 <!--  -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 玩家听到别人的射击声音
@@ -268,10 +306,9 @@ layout: header-body
 
 ::body::
 
+![](/gun-sound-3p-layer.png){style="height: 360px"}
 
-<!--
-- 这里会有关于 blender container 的运用，需要在之前的课程中先安排使用案例
--->
+<!--  -->
 
 ---
 layout: header-body
