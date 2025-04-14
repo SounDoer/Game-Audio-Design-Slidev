@@ -244,18 +244,6 @@ layout: header-body
 layout: header-body
 ---
 
-### 枪械声音录制
-
-::body::
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=93662654&bvid=BV1XE411s7QN&cid=159918305&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 450px;"></iframe>
-
-<!--  -->
-
----
-layout: header-body
----
-
 ### 游戏中的射击体验
 
 ::body::
@@ -307,6 +295,30 @@ layout: header-body-center
 ::body::
 
 ![](/gun-sound-3p-layer.png){style="height: 360px"}
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 枪械声音录制
+
+::body::
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=93662654&bvid=BV1XE411s7QN&cid=159918305&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 450px;"></iframe>
+
+<!--  -->
+
+---
+layout: header-body-center
+---
+
+### Recording Session Editing
+
+::body::
+
+![](/Gun_Rec_Session_PT.png){style="height: 420px"}
 
 <!--  -->
 
