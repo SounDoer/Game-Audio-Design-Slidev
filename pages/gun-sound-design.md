@@ -323,6 +323,18 @@ layout: header-body-center
 <!--  -->
 
 ---
+layout: header-body-center
+---
+
+### Wwise Data Structure
+
+::body::
+
+<!-- ![](/Gun_Rec_Session_PT.png){style="height: 420px"} -->
+
+<!--  -->
+
+---
 layout: header-body
 ---
 
