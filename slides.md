@@ -82,6 +82,10 @@ src: ./pages/vehicle-sound-design.md
 ---
 
 ---
+src: ./pages/how-to-get-sound-assets.md
+---
+
+---
 src: ./pages/cinematic-sound-design.md
 ---
 
