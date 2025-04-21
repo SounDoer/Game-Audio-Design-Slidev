@@ -6,7 +6,7 @@ layout: section
 **Gun Sound Design**
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 真实环境中的枪声
@@ -299,7 +299,7 @@ layout: header-body-center
 <!--  -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 枪械声音录制

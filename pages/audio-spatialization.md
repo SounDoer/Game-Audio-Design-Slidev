@@ -252,7 +252,7 @@ Similar to static lighting bake detailed physics offline to provide a physical b
 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### Wave Physics Simulation Demo
