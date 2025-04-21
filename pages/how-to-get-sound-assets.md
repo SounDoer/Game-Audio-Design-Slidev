@@ -52,3 +52,46 @@ layout: header-body
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=840374124&bvid=BV1P54y1R73e&cid=180210651&t=519" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 220px;"></iframe>
 
 </div>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 合成器 Synthesizer
+
+::body::
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+![](/src/how-to-get-sound-assets/Robert-Moog-with-Moog-Synthesizers.jpg){style="height: 220px"}
+
+![](/src/how-to-get-sound-assets/Moog-One-Front.jpg){style="height: 200px"}
+
+</div>
+
+<div>
+
+![](/src/how-to-get-sound-assets/massive-x.jpg){style="height: 220px"}
+
+![](/src/how-to-get-sound-assets/reaktor-6.jpg){style="height: 200px"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 音效库 Sound Library
+
+::body::
+
+
+<!--  -->
