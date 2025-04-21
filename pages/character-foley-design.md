@@ -114,7 +114,7 @@ layout: header-body
 layout: header-body
 ---
 
-### 材质映射
+### 材质映射 Material Mapping
 
 ::body::
 
@@ -162,6 +162,36 @@ layout: header-body
 </div>
 
 </div v-clicks>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 射线检测 Raycast
+
+::body::
+
+<div class="grid grid-cols-2 gap-4" v-clicks>
+
+<div>
+
+![](/src/char-foley/footstep-raycast.png)
+
+</div>
+
+<div>
+
+![](/src/char-foley/ue-raycast-line-trace.png)
+
+</div>
+
+</div v-clicks>
+
+<!--
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/using-a-single-line-trace-raycast-by-channel-in-unreal-engine
+-->
 
 ---
 layout: header-body
