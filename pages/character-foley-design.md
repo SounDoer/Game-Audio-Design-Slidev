@@ -103,12 +103,65 @@ layout: header-body
 
 </div>
 
-</div>
+</div v-clicks>
 
 <!--
 - 对动作类型进行抽象归类
 - 通过地面材质展开讲解材质系统
 -->
+
+---
+layout: header-body
+---
+
+### 材质映射
+
+::body::
+
+<div class="grid grid-cols-4 gap-4" v-clicks>
+
+<div>
+
+**材质 Material**
+
+![](/src/char-foley/ue-material.png){style="height: 120px"}
+
+![](/src/char-foley/ue-material-m.png)
+
+![](/src/char-foley/ue-material-mi.png)
+
+
+</div>
+
+<div>
+
+**物理材质 Physical Material**
+
+![](/src/char-foley/ue-physical-material.png){style="height: 120px"}
+
+![](/src/char-foley/ue-phymat-detail.png)
+
+</div>
+
+<div>
+
+**表面类型 Surface Type**
+
+![](/src/char-foley/ue-surface-type.png)
+
+</div>
+
+<div>
+
+**Material Switch**
+
+![](/src/char-foley/ue-switch-material.png){style="height: 150px"}
+
+![](/src/char-foley/wwise-switch-material.png)
+
+</div>
+
+</div v-clicks>
 
 ---
 layout: header-body
