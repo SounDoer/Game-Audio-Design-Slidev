@@ -176,6 +176,94 @@ layout: header-body-center
 <!--  -->
 
 ---
+layout: header-body-center
+---
+
+### Spatial Audio Signal Flow
+
+::body::
+
+![](/spatial-audio-signal-flow.png){style="height: 450px"}
+
+<!--
+- https://www.audiokinetic.com/en/library/edge/?source=SDK&id=soundengine_obsocc.html
+-->
+
+---
+layout: header-body
+---
+
+### Acoustic Environments Recreation
+Room & Portal + Raycast
+
+::body::
+
+<div class="grid grid-cols-2 gap-6">
+
+<div>
+
+![](/src/audio-spatialization/Wwise_Room_Portal_Texture_02.png){style="height: 100%"}
+
+</div>
+
+<div>
+
+![](/src/audio-spatialization/SOP_Wwise_3D_Viewer.png){style="height: 100%"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### Acoustic Environments Recreation
+Wave Physics Simulation
+
+::body::
+
+<div class="grid grid-cols-2 gap-6">
+
+<div>
+
+Modeling wave effects like occlusion, obstruction, portaling and reverberation in complex scenes without requiring manual zone markup or CPU intensive raytracing.  
+Similar to static lighting bake detailed physics offline to provide a physical baseline and use a lightweight runtime with expressive design controls to meet artistic goals.
+
+![](/src/audio-spatialization/triton.gif){style="height: 200px"}
+
+</div>
+
+<div>
+
+![](/src/audio-spatialization/ProjectAcoustics-GDC2019-01.png){style="height: 180px"}
+
+![](/src/audio-spatialization/ProjectAcoustics-GDC2019-02.png){style="height: 180px"}
+
+</div>
+
+</div>
+
+<!--
+- [What is Project Acoustics?](https://docs.microsoft.com/en-us/gaming/acoustics/what-is-acoustics)
+- [Project Acoustics - Game Developers Conference 2019](https://www.youtube.com/watch?v=uY4G-GUAQIE)
+-->
+
+---
+layout: header-body
+---
+
+### Wave Physics Simulation Demo
+
+::body::
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=727071638&bvid=BV1fS4y1q7ty&cid=734954302&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 450px;"></iframe>
+
+<!--  -->
+
+---
 layout: statement
 ---
 
