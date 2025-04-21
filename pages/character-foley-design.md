@@ -114,6 +114,50 @@ layout: header-body
 layout: header-body
 ---
 
+### 动作类型
+
+::body::
+
+<div class="grid grid-cols-3 gap-4">
+
+<div>
+
+![](/src/char-foley/SOP_Anim_FS_Walk_F.png){style="height: 140px"}
+
+![](/src/char-foley/SOP_Anim_FS_Run_B.png){style="height: 140px"}
+
+![](/src/char-foley/SOP_Anim_FS_CrouchIdleToAds.png){style="height: 140px"}
+
+</div>
+
+<div>
+
+![](/src/char-foley/SOP_Anim_FS_Walk_B.png){style="height: 140px"}
+
+![](/src/char-foley/SOP_Anim_FS_Crouch_F.png){style="height: 140px"}
+
+![](/src/char-foley/SOP_Anim_FS_Turn_RT150.png){style="height: 140px"}
+
+</div>
+
+<div>
+
+![](/src/char-foley/SOP_Anim_FS_Run_F.png){style="height: 140px"}
+
+![](/src/char-foley/SOP_Anim_FS_Crouch_B.png){style="height: 140px"}
+
+![](/src/char-foley/SOP_Anim_FS_SuperHit_L.png){style="height: 140px"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
 ### 材质映射 Material Mapping
 
 ::body::
@@ -124,12 +168,11 @@ layout: header-body
 
 **材质 Material**
 
-![](/src/char-foley/ue-material.png){style="height: 120px"}
+![](/src/char-foley/SOP_Material.png){style="height: 90px"}
 
 ![](/src/char-foley/ue-material-m.png)
 
 ![](/src/char-foley/ue-material-mi.png)
-
 
 </div>
 
