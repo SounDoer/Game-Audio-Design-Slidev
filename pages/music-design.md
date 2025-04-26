@@ -86,8 +86,32 @@ layout: header-body
 ::body::
 
 
-<!--  -->
+<!-- pic 01 -->
 
+---
+layout: header-body
+---
+
+### A Case of Boss Fight Music
+
+::body::
+
+
+<!-- pic 02 -->
+
+---
+layout: header-body
+---
+
+### State & Transition
+
+::body::
+
+
+<!--
+- 用波形片段来讲解
+- 然后进 Wwise 演示
+-->
 
 ---
 layout: header-body
@@ -97,5 +121,33 @@ layout: header-body
 
 ::body::
 
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 音乐风格
+
+::body::
+
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 游戏项目内的音乐设计流程
+
+::body::
+
+<v-clicks>
+
+- 音乐设计师做什么？
+- 制作人/策划需要做什么？
+- 与作曲家/艺术家的合作关系
+
+</v-clicks>
 
 <!--  -->
