@@ -27,10 +27,96 @@ layout: header-body
 -->
 
 ---
+layout: header-body-center
+---
+
+### 语音设计管线
+Character One-Page
+
+::body::
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+![](/src/voice-design/SOP_Character_Voice_Casting_Sheet_01.jpg){style="height: 200px"}
+
+![](/src/voice-design/SOP_Character_Voice_Casting_Sheet_03.jpg){style="height: 200px"}
+
+</div>
+
+<div>
+
+![](/src/voice-design/SOP_Character_Voice_Casting_Sheet_02.jpg){style="height: 200px"}
+
+![](/src/voice-design/SOP_Character_Voice_Casting_Sheet_04.jpg){style="height: 200px"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
 layout: header-body
 ---
 
 ### 语音设计管线
+Voice Database
+
+::body::
+
+<div class="flex grid-cols-2 gap-4">
+
+<div>
+
+![](/src/voice-design/SOP_VO_DT_01.png){style="height: 300px"}
+
+</div>
+
+<div>
+
+![](/src/voice-design/SOP_VO_DT_02.png){style="height: 400px"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### 语音设计管线
+Recording List
+
+::body::
+
+<div class="flex grid-cols-2 gap-4">
+
+<div>
+
+![](/src/voice-design/SOP_VO_RecList_01.png){style="height: 400px"}
+
+</div>
+
+<div>
+
+![](/src/voice-design/SOP_VO_RecList_02.png){style="height: 400px"}
+
+</div>
+
+</div>
+
+<!--  -->
+
+---
+layout: header-body-center
+---
+
+### 语音设计管线
+Pipeline Overview Graph
 
 ::body::
 
@@ -61,6 +147,7 @@ layout: header-body
 
 <div>
 
+- Text-To-Speach Placeholder
 - Localization
 - Casting
 - Recording
