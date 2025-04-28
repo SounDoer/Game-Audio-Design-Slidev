@@ -126,7 +126,41 @@ layout: header-body
 <!--
 - 用波形片段来讲解
 - 然后进 Wwise 演示
+- [Wwise Tour 2016 - CD Projekt Red Witcher (6 of 6) - Music: Action Sync](https://www.youtube.com/watch?v=aLq0NKs3H-k)
 -->
+
+---
+layout: header-body
+---
+
+### Elements of Music
+
+::body::
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+- 音色 Timbre
+- 音调 Pitch
+  - 旋律 Melody
+  - 和弦 Chord
+  - 和声 Harmony
+- 节奏 Rhythm
+  - 节拍 Tempo
+  - BPM (Beats Per Minute)
+
+</div>
+
+<div>
+
+<img src="/src/music-design/music-score-amazing-grace.png" alt="music-score-amazing-grace" style="width: 100%;">
+
+</div>
+
+</div>
+
+<!--  -->
 
 ---
 layout: header-body
@@ -136,6 +170,50 @@ layout: header-body
 
 ::body::
 
+<div class="grid grid-cols-5 gap-4">
+
+<div>
+
+- Taiko no Tatsujin
+- Patapon
+- Rhythm Tengoku
+- Crypt of the NecroDancer
+- BPM Bullets Per Minute
+
+</div>
+
+<div>
+
+- Cytus
+- Deemo
+- Lanota
+- VOEZ
+- osu
+
+</div>
+
+<div>
+
+- Trombone Champ
+
+</div>
+
+<div>
+
+- Rocksmith
+- Just Dance
+
+</div>
+
+<div>
+
+- Just Shapes & Beats
+- 140
+- Dark Echo
+
+</div>
+
+</div>
 
 <!--
 - 典型音游玩法分析

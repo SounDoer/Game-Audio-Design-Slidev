@@ -23,6 +23,7 @@ layout: header-body
 - DI11 的语音管线
 - https://www.voicedesignresource.com/
 - https://www.audiokinetic.com/en/blog/a-speed-run-through-the-world-of-voice-design/
+- [Behind the Scenes of the Cinematic Dialogues in The Witcher 3: Wild Hunt](https://www.youtube.com/watch?v=chf3REzAjgI)
 -->
 
 ---
