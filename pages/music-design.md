@@ -220,13 +220,50 @@ layout: header-body
 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 音乐风格
 
 ::body::
 
+![](/src/music-design/music-style-01.png){style="height: 450px"}
+
+<!-- from keynote -->
+
+---
+layout: header-body-center
+---
+
+### 音乐风格
+
+::body::
+
+![](/src/music-design/music-style-02.png){style="height: 450px"}
+
+<!-- from keynote -->
+
+---
+layout: header-body-center
+---
+
+### 音乐风格
+
+::body::
+
+![](/src/music-design/music-style-03.png){style="height: 450px"}
+
+<!-- from keynote -->
+
+---
+layout: header-body-center
+---
+
+### 音乐风格
+
+::body::
+
+![](/src/music-design/music-style-04.png){style="height: 450px"}
 
 <!-- from keynote -->
 
