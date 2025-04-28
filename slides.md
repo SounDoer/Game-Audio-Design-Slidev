@@ -98,6 +98,10 @@ src: ./pages/cinematic-sound-design.md
 ---
 
 ---
+src: ./pages/ai-in-game-audio.md
+---
+
+---
 src: ./pages/game-audio-mixing.md
 ---
 
