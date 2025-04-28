@@ -86,15 +86,15 @@ src: ./pages/how-to-get-sound-assets.md
 ---
 
 ---
-src: ./pages/cinematic-sound-design.md
----
-
----
 src: ./pages/music-design.md
 ---
 
 ---
 src: ./pages/voice-design.md
+---
+
+---
+src: ./pages/cinematic-sound-design.md
 ---
 
 ---

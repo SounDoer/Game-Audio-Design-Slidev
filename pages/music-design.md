@@ -78,24 +78,26 @@ layout: header-body
 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### A Case of Boss Fight Music
 
 ::body::
 
+![](/boss-fight-music-flow-01.png){style="width: 100%"}
 
 <!-- pic 01 -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### A Case of Boss Fight Music
 
 ::body::
 
+![](/boss-fight-music-flow-02.png){style="width: 100%"}
 
 <!-- pic 02 -->
 
