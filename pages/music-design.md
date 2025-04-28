@@ -109,6 +109,19 @@ layout: header-body
 
 ::body::
 
+![](/boss-fight-music-waveform-01.png){style="height: 420px"}
+
+<!--  -->
+
+---
+layout: header-body
+---
+
+### State & Transition
+
+::body::
+
+![](/boss-fight-music-waveform-02.png){style="height: 420px"}
 
 <!--
 - 用波形片段来讲解
