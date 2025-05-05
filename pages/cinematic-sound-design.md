@@ -63,3 +63,16 @@ Script Event
 </div>
 
 <!--  -->
+
+---
+layout: header-body
+---
+
+### How to Make Realtime Cinematic Sound
+
+::body::
+
+- 20230518_SHU_CinematicSoundDesignInUnrealEngine
+- 20220329_SHU_AudioDesignPipelineOfRealtimeCinematicInObjectBasedAudio
+
+<!--  -->
