@@ -106,6 +106,10 @@ src: ./pages/game-audio-mixing.md
 ---
 
 ---
+src: ./pages/game-audio-debug.md
+---
+
+---
 src: ./pages/fin.md
 ---
 
