@@ -46,10 +46,6 @@ src: ./pages/dev-tool.md
 ---
 
 ---
-src: ./pages/how-to-listen-sound.md
----
-
----
 src: ./pages/campfire-sound.md
 ---
 
@@ -102,10 +98,12 @@ src: ./pages/ai-in-game-audio.md
 ---
 
 ---
-src: ./pages/game-audio-mixing.md
+src: ./pages/how-to-listen-sound.md
 ---
 
-
+---
+src: ./pages/game-audio-mixing.md
+---
 
 ---
 src: ./pages/fin.md
