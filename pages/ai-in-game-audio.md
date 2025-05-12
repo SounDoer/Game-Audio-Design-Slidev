@@ -191,3 +191,32 @@ layout: header-body
 </div>
 
 <!--  -->
+
+---
+layout: header-body
+---
+
+## AI in SFX
+
+::body::
+
+<div class="grid grid-rows-2 gap-4">
+
+<div>
+
+- [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://audioldm.github.io/)
+- [Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models](https://diff-foley.github.io/)
+- [AudioGen: Textually-Guided Audio Generation](https://audiocraft.metademolab.com/audiogen.html)
+- [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://make-an-audio.github.io/)
+
+</div>
+
+<div>
+
+- [BOOM Library](https://www.boomlibrary.com/)
+- [Krotos Studio](https://krotos.studio/)
+- [Soundly](https://getsoundly.com/)
+
+</div>
+
+</div>
