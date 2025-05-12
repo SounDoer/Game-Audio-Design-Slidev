@@ -144,3 +144,50 @@ layout: header-body
 </div>
 
 <!--  -->
+
+---
+layout: header-body
+---
+
+## 大模型语音技术
+
+::body::
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+- 语音识别 Speech-To-Text
+- 语音合成 Text-To-Speech
+- 语音转换与克隆 Voice Conversion / Cloning
+- AI 语音与多模态结合
+- ……
+
+<br>
+<audio controls style="width: 300px; height: 30px;">
+  <source src="/src/ai-in-game-audio/volcengine-tts-audio.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<audio controls style="width: 300px; height: 30px;">
+  <source src="/src/ai-in-game-audio/ElevenLabs_Text_to_Speech_audio.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+
+<div>
+
+- https://www.volcengine.com/product/tts
+- https://elevenlabs.io/
+- https://www.kits.ai/
+- https://www.altered.ai/
+- https://www.respeecher.com/
+- https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file
+- https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+
+</div>
+
+</div>
+
+<!--  -->
