@@ -11,7 +11,7 @@ layout: section
 layout: header-body
 ---
 
-## [Suno AI Music](https://suno.com/)
+### [Suno AI Music](https://suno.com/)
 
 <div class="grid grid-cols-2 gap-4">
 
@@ -35,7 +35,7 @@ layout: header-body
 layout: header-body
 ---
 
-## Suno AI Music
+### Suno AI Music
 
 <div class="grid grid-rows-2 gap-4">
 
@@ -73,7 +73,7 @@ layout: header-body
 layout: header-body
 ---
 
-## Suno AI Music
+### Suno AI Music
 
 <div class="grid grid-rows-2 gap-4">
 
@@ -111,7 +111,7 @@ layout: header-body
 layout: header-body
 ---
 
-## Suno AI Music
+### Suno AI Music
 
 <div class="grid grid-rows-2 gap-4">
 
@@ -149,7 +149,7 @@ layout: header-body
 layout: header-body
 ---
 
-## 大模型语音技术
+### 大模型语音技术
 
 ::body::
 
@@ -196,7 +196,7 @@ layout: header-body
 layout: header-body
 ---
 
-## AI in SFX
+### AI in SFX
 
 ::body::
 
@@ -227,7 +227,7 @@ layout: header-body
 layout: header-body
 ---
 
-## AIGC 法律与伦理问题
+### AIGC 法律与伦理问题
 
 ::body::
 
