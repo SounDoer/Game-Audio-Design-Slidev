@@ -57,20 +57,94 @@ layout: header-body
 <!--  -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 游戏类型和玩法决定的听觉体验
 
+::body::
+
+<div class="grid grid-cols-9 gap-4">
+
+<div>
+
+![](/src/game-poster/DOOM-2016.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Battlefield-V-2018.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Call-of-Duty-Modern-Warfare-III-2023.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Counter-Strike-2-2023.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Rainbow-Six-Siege-2015.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Escape-of-Tarkov-2017.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Valorant-2020.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Apex-Legends-2019.jpg){style="height: 120px"}
+
+</div>
+
+<div>
+
+![](/src/game-poster/Fortnite-2017.jpg){style="height: 120px"}
+
+</div>
+
+</div>
 
 <!--  -->
 
 ---
-layout: header-body
+layout: header-body-center
 ---
 
 ### 各类终端设备的适配和调优
 
+::body::
+
+![](/src/game-audio-mixing/Channel-Based-Mix-Output.jpg){style="height: 420px"}
+
+<!--  -->
+
+---
+layout: header-body-center
+---
+
+### 各类终端设备的适配和调优
+
+::body::
+
+![](/src/game-audio-mixing/Realtime-Positioning-Mix-Output.jpg){style="height: 420px"}
 
 <!--  -->
 
@@ -82,4 +156,22 @@ layout: header-body
 
 A High-Level Difference between Game Audio and Film Sound: The Control of Sound
 
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+![](/src/game-audio-mixing/pro-tools-automation-curve.jpg){style="height: 240px"}
+
+</div>
+
+<div>
+
+![](/src/game-audio-mixing/wwise-bus-ducking.webp){style="height: 240px"}
+
+</div>
+
+</div>
+
 <!--  -->
+
+<!-- 延申探讨声音设计风格 -->
