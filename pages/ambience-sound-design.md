@@ -97,7 +97,10 @@ background: aigc-forest-cabin.png
 
 </div>
 
-<!--  -->
+<!--
+- 空间上的分布，近中远
+- 时间上的分布，大响度声音之后的鸟和虫的声音如何变化
+-->
 
 ---
 layout: header-body-bg
